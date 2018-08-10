@@ -1,1 +1,0 @@
-<h3 class="the-title"><?php the_title(); ?></h3>

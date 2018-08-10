@@ -1,1 +1,0 @@
-<p class="mk-testimonial-quote"><?php echo get_post_meta( get_the_ID(), '_desc', true ); ?></p>

@@ -1,0 +1,84 @@
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Framework @ Sniper Front-End 3 - https://github.com/h1dd3nsn1p3r/sniper-front-end
+
+# Package @ Spark Construction
+
+# Author @ offshore Themes
+
+# Author Url @ http://offshorethemes.com/
+
+# License : GPL
+
+# Since 2018 Jan 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+
+// Import browser reset & wp styles 
+
+@import 'tweaks/resets';
+@import 'style/wordpress_styles';
+
+
+// Import variables
+
+@import 'tweaks/variables';
+
+
+// Import external library & plugins 
+
+@import 'plugins/animate';
+@import 'plugins/owl.carousel';
+@import 'plugins/prettyphoto';
+@import 'style/menu';
+
+
+// Import bootstrap
+
+@import 'vendor/bootstrap';
+
+
+// Import fonts & typography
+
+@import 'typography/fonts';
+@import 'typography/typography';
+
+
+// Import overwrites
+
+@import 'overwrite/overwrite';
+
+
+// Import predefined classes
+
+@import 'predefined/predefined';
+
+
+// Import Custom stylesheet
+
+@import 'style/style';
+
+
+// Import Responsive
+
+@import 'responsive/media';
+
+
+// Import keyframes
+
+@import 'style/keyframe';
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+/* -----------------------------------------------
+   Estilo para el menú de la barra de navegación
+   ---------------------------------------------*/
+   /* Barra de navegación*/
+nav {
+   width           :  100%;
+   height          : 50px;
+   background-color: #433;
+   margin-bottom   : 15px;
+}  /* Nivel 1 del menú principal*/
+nav ul {
+   margin:0 auto;
+   list-style: none;
+   text-transform: Capitalize;
+}  /* Elementos del menú de nivel 1 */
+nav ul li {
+   float           : left;
+   margin          : 8px 8px 2px 25px;
+   display         : block;
+   width           : 110px;
+   height          : 100%;
+   text-align      : center;
+   padding         : 8px;
+/*   background-color: #654;*/
+}  /* Mostrar */
+nav ul li:hover ul {
+   display: block;
+   z-index: 1000;
+}
+nav ul li ul {
+   display    : none;
+   position   : absolute;
+   margin-top : 5px;
+   margin-left: -8px;
+}
+nav ul li ul li {
+   background-color: rgba(50,50,50,.9);
+   margin          : 5px 0 5px 0;
+   display         : block;
+   float           : none;
+   height          : 30px;
+   border-radius   : 5px;
+}
+nav ul li:hover {
+   background-color: #666;
+}
+/* -------------------------------------------------
+   Estilo para el menú del panel de administración
+   -----------------------------------------------*/
+.InformacionMenu, .MenuPanel {
+   width : 850px;
+   margin: 0 auto;
+}
+.MenuPanel {
+   text-transform  :  Capitalize;
+   border-radius   : 15px;
+   list-style-image: url(../img/vigneta.png);
+   font-weight     : bold;
+}
+.MenuPanel li ul li a{
+   margin-left: 30px;
+   font-weight: normal;
+}
+/* -------------------------------------------------
+   Efectos de animación para el menú
+      Brillo leve sobre los elementos
+   -----------------------------------------------*/
+nav ul li{
+   color             : #FFF;
+   transition        : all 0.8s ease;
+   -webkit-transition: all 0.8s ease;
+   -moz-transition   : all 0.8s ease;
+   -o-transition     : all 0.8s ease;
+}
+nav ul li.active {
+  color: #333;
+}

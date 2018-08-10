@@ -1,0 +1,146 @@
+/*!
+Theme Name: Spark Construction Lite
+Theme URI: https://offshorethemes.com/wordpress-themes/spark-construction-lite/
+Author: offshorethemes
+Author URI: https://offshorethemes.com/
+Description: Spark Construction Lite is a Multipurpose WordPress Theme which is designed and developed targetting agencies and companies which deal with construction, renovation, architecture design, engineering etc. It has beautiful, elegant and attractive design and meets the need to build constuction and related field's websites. It is based on customizer from where you can easily customize your site. It has reponsive design, cross browser compatible, and is developed with respect to WordPress Standards. It is compatible with plugin Contact Form 7 , is translation ready and SEO friendly. Although the theme targets construction houses, it can be used for corporate and business websites.
+Version: 1.0.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: spark-construction-lite
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, blog, two-columns, footer-widgets, custom-header, custom-colors, left-sidebar, right-sidebar, theme-options
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Spark Construction Lite is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+img{
+	height: auto;
+}
+
+.breadcrumb{
+	position:relative;
+	padding:75px 20px;
+	background-repeat:no-repeat !important;
+	background-attachment:fixed !important;
+	background-size:cover !important;
+	background-position:center center !important;
+}
+
+.breadcrumb .trail-items{
+	position:relative;
+	z-index:2;
+	text-align:left;
+}
+
+.breadcrumb .trail-items li{
+	display:inline-block;
+	padding-right:40px;
+}
+
+.breadcrumb .trail-items li a{
+	position:relative;
+	color:#111;
+	text-transform:uppercase;
+}
+
+.breadcrumb .trail-items li span{
+	color:#111;
+	text-transform:uppercase;
+}
+
+.breadcrumb .trail-items li a:after{
+	content:'\f105';
+	font-family:'fontAwesome';
+	position:absolute;
+	bottom:-3px;
+	right:-22px;
+}
+
+.breadcrumb .trail-items li:last-child a:after{
+	content:'';
+}
+
+.footer_bottom {
+    text-align: center;
+}
+
+ul.meta_list li.posted_category a:before {
+    content: '\f115';
+    font-family: 'fontAwesome';
+    padding-right: 5px;
+}
+
+/**
+ * Post Tags
+*/
+.post-tag ul{
+    margin: 0;
+    padding: 0;
+}
+.post-tag ul li {
+    display: inline-block;
+    background-color: #222222;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    height: 30px;
+    line-height: 30px;
+    transition: all .3s ease-in;
+}
+.post-tag ul li:first-child {
+    background-color: #F8C12C;
+    padding: 0 10px;
+    color: #fff;
+}
+.post-tag ul li:hover {
+    background-color: #F8C12C;
+    color: #fff;
+}
+.post-tag ul li a {
+    color: #fff;
+    padding: 0px 15px;
+    display: inherit;
+}
+
+/**
+ * Inner Header Layout
+*/
+.spc_general_header.spc_header_layout_one .header_mask,
+.spc_general_header.spc_header_layout_two .header_mask {
+    position: relative;
+}
+
+.spc_general_header .header_mask {
+    background-size: cover;
+}
+
+.home .spc_general_header.spc_header_layout_one .header_mask{
+	position: absolute;
+}

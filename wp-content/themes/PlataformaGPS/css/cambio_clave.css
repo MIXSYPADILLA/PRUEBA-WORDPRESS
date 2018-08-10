@@ -1,0 +1,35 @@
+form  {
+   width: 550px;
+   margin: 0 auto;
+   text-align: center;
+   border-top: 5px ridge #444;
+   border-bottom: 5px groove #444;
+   border-radius: 10px;
+   padding:0 15px;
+}
+input {
+   width  : 90%;
+   padding: 5px;
+}
+legend {
+   color      : #000;
+   font-weight: bold;
+   text-align : center;
+   display    : block;
+   width      : 500px;
+   margin     : 5px auto 15px auto;
+}
+.frm-etiquetas {
+   float      : left;
+   width      : 230px;
+   font-weight: bold;
+   text-align: left;
+}
+.frm-controles {
+   float: right;
+   width: 300px;
+}
+.frm-botones input{
+   margin: 25px auto 15px 15px;
+   padding: 5px 0;
+}

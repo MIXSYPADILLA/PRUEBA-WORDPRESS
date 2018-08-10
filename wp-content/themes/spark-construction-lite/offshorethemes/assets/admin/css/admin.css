@@ -1,0 +1,32 @@
+.post_image_section .gal-img-block {
+  display: inline-block;
+  vertical-align: top;
+  margin:5px 2px;
+  width: 19%;
+}
+.post_image_section .gal-img-block img {
+    width: 100%;
+}
+.post_image_section .gal-img-block .fig-remove {
+  display: block;
+  border: 1px solid #0073aa;
+  padding: 5px 2px;
+  text-align: center;
+  width: 97%;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+  -webki-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+  -moz-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+  margin-top: 3%;
+  background: #0091cd;
+  color: #fff;
+  cursor: pointer;
+}
+.radio-image-container:hover,
+.radio-image-container:focus {
+  cursor: pointer;
+}
+
+.radio-image-wrapper {
+}
+

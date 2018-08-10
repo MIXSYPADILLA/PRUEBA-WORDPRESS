@@ -1,0 +1,283 @@
+ul.primary_nav {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    float: none;
+    text-align: right;
+}
+
+ul.primary_nav:before,
+ul.primary_nav:after {
+    content: '';
+    display: table
+}
+
+ul.primary_nav:after {
+    clear: both;
+}
+
+ul.primary_nav>li {
+    position: relative;
+    float: none;
+    display: inline-block;
+    padding: 15px 40px 15px 0;
+    border-bottom: none;
+}
+
+ul.primary_nav>li:last-child {
+
+    padding: 15px 0 15px 0;
+}
+
+
+ul.primary_nav li ul {
+
+    position: absolute;
+    left: 100%;
+    top: 0;
+    margin: 0;
+    list-style-type: none;
+    text-align: left;
+    background: $nav_drop_down_color;
+    border: 1px solid $border_color;
+    z-index: 999;
+    display: none;
+    width: 250px;
+}
+
+ul.primary_nav>li>ul {
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+ul.primary_nav li ul li {
+    position: relative;
+    padding: 15px 20px 15px 15px;
+    line-height: 24px;
+    border-bottom: 1px solid rgba(238, 238, 238, 1);
+}
+
+ul.primary_nav li ul li:last-child {
+
+    border-bottom: none;
+}
+
+ul.primary_nav li a {
+
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: $primary_color;
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+ul.primary_nav>li>a {
+
+    color: $white;
+}
+
+ul.primary_nav li a:hover {
+
+    color: $secondary_color;
+    text-decoration: none;
+    background: none;
+}
+
+
+ul.primary_nav li .sub-toggle {
+
+    position: absolute;
+    right: 25px;
+    top: 15px;
+    z-index: 999;
+    cursor: pointer;
+}
+
+ul.primary_nav li .sub-toggle:before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul.primary_nav>li .sub-toggle>i {
+
+    display: inline-block;
+    color: $white;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+ul.primary_nav li ul li .sub-toggle i {
+
+    color: $primary_color;
+}
+
+
+ul.primary_nav>li:first-child,
+ul.primary_nav>li.has-submenu+li {
+    border-left: 0
+}
+
+
+
+
+
+/*
+For toggle menu
+*/
+
+.menu-collapser {
+    position: relative;
+    width: 100%;
+    color: $white;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.collapse-button {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: 40px;
+    padding: 7px 10px;
+    color: $white;
+    font-size: 14px;
+    text-align: center;
+    background-color: #0E0E0E;
+    cursor: pointer;
+    transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.collapse-button:hover,
+.collapse-button:focus {
+    color: $white;
+}
+
+.collapse-button .icon-bar {
+
+    display: block;
+    height: 2px;
+    width: 20px;
+    margin: 5px 0;
+    background-color: $white;
+    border-radius: 1px
+}
+
+ul.primary_nav.collapsed {
+
+    overflow: auto !important;
+}
+
+ul.primary_nav.collapsed li .sub-toggle {
+
+    padding: 3px 12px;
+    top: 10px;
+    right: 0;
+    background: #222;
+    border-radius: 4px;
+}
+
+ul.primary_nav.collapsed>li:last-child {
+
+    padding: 12px 0 12px 0;
+}
+
+ul.primary_nav.collapsed li {
+
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #222;
+    padding: 12px 40px 12px 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+ul.primary_nav.collapsed li a {
+
+    display: block;
+    color: $white !important;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+ul.primary_nav.collapsed li ul {
+
+    position: relative;
+    background: #141414 !important;
+    border: none;
+    padding: 10px 10px 0 20px;
+
+    li a {
+
+        color: $white;
+        font-size: 12px;
+    }
+
+    li a i {
+
+        padding-right: 5px;
+        color: $white !important;
+    }
+
+    li i {
+
+        color: $white !important;
+    }
+}
+
+
+@media (max-width: 769px) {
+
+    ul.primary_nav.collapsed {
+
+        padding: 0 15px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #141414;
+        height: 100%;
+    }
+
+
+
+
+
+    header nav .menu-collapser {
+
+        text-transform: uppercase;
+    }
+
+
+    header nav.primary_navigation ul.primary_nav {
+
+        text-align: left;
+    }
+
+    ul.primary_nav.collapsed li ul {
+
+        top: 100%;
+        left: 0;
+        transform: none;
+    }
+
+    ul.primary_nav.collapsed li ul {
+
+        width: 100%;
+    }
+}

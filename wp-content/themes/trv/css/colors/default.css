@@ -1,0 +1,1487 @@
+/*==================== Theme Menu ====================*/
+.transportex-headwidget .navbar-wp {
+	background: #000;
+}
+.transportex-headwidget .navbar-header .navbar-brand {
+	color: #222;
+}
+.header-widget .transportex-header-box-icon i { 
+	color: #50b9ce;
+}
+.transportex-headwidget .navbar-wp .navbar-nav > li> a {
+	color: #fff;
+}
+.transportex-headwidget .navbar-wp .navbar-nav > li > a:hover, .transportex-headwidget .navbar-wp .navbar-nav > li > a:focus, .transportex-headwidget .navbar-wp .navbar-nav > .active > a, .transportex-headwidget .navbar-wp .navbar-nav > .active > a:hover, .transportex-headwidget .navbar-wp .navbar-nav > .active > a:focus {
+	color: #fff;
+	background: #50b9ce;
+}
+.transportex-headwidget .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+/*=== navbar Header colors ===*/
+.navbar-wp {
+	background: #fff;
+}
+.navbar-header .navbar-brand {
+	color: #222;
+}
+/*=== navbar hover colors ===*/
+.navbar-wp .navbar-nav > li > a {
+	color: #222;
+}
+.navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus, .navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus {
+	color: #50b9ce;
+}
+.navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus {
+	color: #50b9ce;
+	border-color: #50b9ce;
+}
+/*=== navbar dropdown colors ===*/ 
+.navbar-wp .dropdown-menu {
+	background: #fff;
+}
+.navbar-wp .dropdown-menu > li > a {
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus {
+	background: #f5f5f5;
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > li > a:hover {
+	background: #f5f5f5;
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+}
+.transportex-search-box .transportex-search .btn {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+/*=== navbar drop down hover color ===*/
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	color: #fff;
+}
+.navbar-base .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+/*=== navbar toggle color ===*/ 
+.navbar-default .navbar-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background: #fff;
+}
+.navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	background: rgba(0,0,0,0);
+	color: #fff;
+}
+/*==================== Body & Global ====================*/
+.wrapper {
+	background: #fff;
+}
+body {
+	color: #999;
+}
+.transportex-heading h3, .transportex-heading h3 a {
+	color: #212121;
+}
+input[type="submit"], button {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+a {
+	color: #50b9ce;
+}
+a:hover, a:focus {
+	color: #14112c;
+}
+.transportex-search-modal .transportex-search .btn {
+	background: #50b9ce;
+	color: #fff;
+}
+.transportex-search-modal .transportex-search .btn:hover {
+	background: #14112c;
+}
+
+.transportex-error-404 h1 i {
+	color: #50b9ce;
+}
+/*==================== blog ====================*/
+.transportex-blog-post-box .title, .transportex-blog-post-box .title a {
+	color: #212121;
+}
+.transportex-blog-post-box .title:hover, .transportex-blog-post-box .title a:hover, .transportex-blog-post-box .title:focus, .transportex-blog-post-box .title a:focus {
+	color: #50b9ce;
+}
+.transportex-blog-category {
+	background: #50b9ce;
+	color: #fff;
+}
+.transportex-blog-category a {
+	color: #fff;
+}
+.transportex-blog-category a:hover {
+	color: #fff;
+}
+.transportex-blog-date span {
+	color: #828282;
+}
+.transportex-author {
+	color: #999;
+}
+.transportex-comments h4 {
+	color: #212121;
+}
+.transportex-blog-author {
+	background: #e8e8e8;
+}
+.transportex-info-author-block {
+	border-color: #f0f0f0;
+	color: #999;
+}
+.transportex-info-author-block a {
+	color: #212121;
+}
+.transportex-info-author-block h4 {
+	color: #333;
+}
+.transportex-info-author-block h4 span {
+	color: #999999;
+}
+.transportex-info-author-block .transportex-info-author-social li a {
+	color: #757575;
+}
+.transportex-info-author-block .transportex-info-author-social li:hover {
+	background: #50b9ce;
+	color: #fff;
+}
+.transportex-info-author-block .transportex-info-author-social li:hover a {
+	color: #fff;
+}
+.comment_section .comment-reply-link {
+	background: #f0f0f0;
+	color: #666;
+	border-color: #f0f0f0;
+}
+.transportex-comments a {
+	color: #777;
+}
+.transportex-comments h4 span {
+	color: #999999;
+}
+.transportex-comments .comment .media-body > p:last-child {
+	border-color: #f0f0f0;
+}
+.transportex-comments li .media-body > .small {
+	color: #999;
+}
+.transportex-comments li .media-body > p {
+	border-color: #f0f0f0;
+	color: #999;
+}
+.transportex-comments .comment-list li {
+	background: #fff;
+	border-color: #eee;
+}	
+
+/*==================== Sidebar ====================*/
+.transportex-sidebar .transportex-widget {
+	border-color: #eee;
+}
+.transportex-sidebar .transportex-widget h6 {
+	color: #212121;
+	border-color: #e5e5e5;
+}
+.transportex-sidebar .transportex-widget ul li {
+	border-color: #eee;
+}
+.transportex-sidebar .transportex-widget ul li a {
+	color: #50b9ce;
+}
+.transportex-sidebar .transportex-widget ul li a:hover, .transportex-sidebar .transportex-widget ul li a:focus {
+	color: #14112c;
+}
+.transportex-sidebar .transportex-widget .transportex-blog-post h3 a {
+	color: #212121;
+}
+.transportex-sidebar .transportex-widget.widget_search .btn {
+	color: #fff;
+	background: #50b9ce;
+}
+.transportex-sidebar .transportex-widget.widget_search .btn:hover, .transportex-sidebar .transportex-widget.widget_search .btn:focus {
+	background: #14112c;
+}
+.transportex-sidebar .transportex-widget .transportex-widget-tags a, .transportex-sidebar .transportex-widget .tagcloud a {
+	background: #fff;
+	border-color: #d1d1d1;
+	color: #222;
+}
+.transportex-sidebar .transportex-widget .transportex-widget-tags a:hover, .transportex-sidebar .transportex-widget .tagcloud a:hover, .transportex-sidebar .transportex-widget .transportex-widget-tags a:focus, .transportex-sidebar .transportex-widget .tagcloud a:focus {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+/*==================== general ====================*/
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	color: #212121;
+}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
+	color: #50b9ce;
+}
+.btn-theme, .btn-theme-two:hover, .btn-theme-two:focus {
+	background: #50b9ce;
+	color: #fff;
+	border-color: #50b9ce;
+}
+.btn-theme-two {
+    color: #fff;
+    border-color: #fff;
+    background: rgba(0,0,0,0);
+}
+.btn-theme:hover, .btn-theme:focus {
+	background: #14112c;
+	color: #fff;
+	border-color: #14112c;
+}
+/*==================== pagination color ====================*/
+.pagination > li > a, .pagination > li > span {
+	color: #212121;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	border-color: #50b9ce;
+	background: #50b9ce;
+	color: #fff;
+}
+/*==================== typo ====================*/
+.transportex-breadcrumb-title h1 {
+	color: #fff;
+}
+.transportex-page-breadcrumb > li a {
+	color: #fff;
+}
+.transportex-page-breadcrumb > li a:hover, .transportex-page-breadcrumb > li a:focus {
+	color: #50b9ce;
+}
+.transportex-page-breadcrumb > li + li:before {
+	color: #fff;
+}
+/*==================== blog ====================*/
+.transportex-comments .transportex-reply:hover, .transportex-comments .transportex-reply:focus {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+.transportex-heading-bor-bt h5 {
+	color: #212121;
+}
+.transportex-heading-bor-bt h5::before {
+	border-color: #50b9ce;
+}
+/*==================== footer background ====================*/
+footer .overlay {
+	background: #222;
+}
+footer .transportex-footer-top-area h6 {
+	color: #fff;
+}
+footer .transportex-widget h6 {
+	color: #fff;
+}
+footer .transportex-widget ul li {
+	color: #969ea7;
+}
+footer .transportex-widget ul li a {
+	color: #969ea7;
+}
+footer .transportex-widget ul li a:hover, footer .transportex-widget ul li a:focus {
+	color: #fff;
+}
+footer .transportex-blog-post h3, footer .transportex-blog-post h3 a {
+	color: #fff;
+}
+footer .transportex-blog-post span {
+	color: #969ea7;
+}
+footer .transportex-footer-copyright {
+	background: rgba(0,0,0,0.2);
+}
+footer .transportex-footer-copyright p, footer .transportex-footer-copyright a {
+	color: #969ea7;
+}
+footer .transportex-footer-copyright a:hover, footer .transportex-footer-copyright a:focus {
+	color: #fff;
+}
+footer .transportex-widget p {
+	color: #fff;
+}
+footer .transportex-social li span.icon-soci a {
+	color: #fff;
+}
+footer .transportex-social li span.icon-soci {
+	background: rgba(255, 255, 255, 0.07);
+	color: #fff;
+}
+footer .transportex-social li span.icon-soci:hover, footer .transportex-social li span.icon-soci:focus {
+	border-color: #50b9ce;
+	background: #50b9ce;
+}
+footer .transportex-social li span.icon-soci:hover a, footer .transportex-social li span.icon-soci:focus a {
+	color: #fff;
+}
+footer .transportex-widget.widget_search .btn {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+footer .transportex-widget.widget_search .btn:hover, footer .transportex-widget.widget_search .btn:focus {
+	background: #14112c;
+	border-color: #14112c;
+}
+footer .transportex-widget .transportex-widget-tags a, footer .transportex-widget .tagcloud a {
+	background: transparent;
+	border-color: #60707d;
+	color: #fff;
+}
+footer .transportex-widget .transportex-widget-tags a:hover, footer .transportex-widget .tagcloud a:hover, footer .transportex-widget .transportex-widget-tags a:focus, footer .transportex-widget .tagcloud a:focus {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+/*form-control*/
+.form-group label {
+    color: #515151;
+}
+.form-control:focus {
+	border-color: #50b9ce;
+}
+.form-group label::before {
+    background-color: #dddddd;
+}
+.form-group label::after {
+	background-color: #50b9ce;
+}
+.woocommerce-page .woocommerce .woocommerce-info a, .woocommerce-page .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-message, .woocommerce-page .woocommerce-message a, .woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus, .woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-error a, .woocommerce-page .woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-info a, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce .woocommerce-info, .woocommerce-cart .wc-proceed-to-checkout a .checkout-button, .ta-callout h3.ta-heading-inner, .ta-callout, .ta-callout h1, .ta-callout h3, .ta-callout-feature-box-icon:hover i, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+    color: #fff;
+}
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
+    background: #50b9ce;
+}
+.woocommerce #review_form #respond .form-submit input:hover, .woocommerce-page .products a.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+    background: #14112c;
+}
+/*Responsive*/ 
+@media (max-width: 992px) {
+.transportex-trhead {
+	background: rgba(0,12,28,0.8);
+}
+}
+.transportex-footer-widget-area input[type="text"], .transportex-footer-widget-area label {color:#fff;}
+
+/*==================== Top Bar color ====================*/
+.ta-trhead .ta-head-detail {
+	background: rgba(26, 30, 34, 0.2);
+}
+.ta-trhead .ta-head-detail .info-left li a , .ta-trhead .ta-head-detail li a i, .ta-trhead .ta-head-detail .info-right li a {
+	color: #fff;
+}
+.ta-trhead .ta-head-detail li a i {
+	color: #50b9ce;
+}
+.ta-trhead .ta-head-detail .info-right li a i {
+	color: #50b9ce;
+}
+.ta-headwidget .ta-head-detail {
+	background: #222;
+}
+.ta-headwidget .ta-head-detail .info-left li a , .ta-headwidget .ta-head-detail li a i, .ta-headwidget .ta-head-detail .info-right li a {
+	color: #fff;
+}
+.ta-headwidget .ta-head-detail .info-right li a:hover, .ta-headwidget .ta-head-detail .info-right li a:focus {
+	color: #50b9ce;
+}
+.ta-headwidget .ta-head-detail li a i {
+	color: #50b9ce;
+}
+.ta-headwidget .ta-head-detail .info-right li a i {
+	color: #50b9ce;
+}
+/*==================== center Top Bar color ====================*/
+.header-center .ta-head-detail {
+	background: #fff;
+	border-color: rgba(230, 230, 230, 0.7);
+}
+.header-center .ta-head-detail .info-left li a , .header-center .ta-head-detail li a i, .header-center .ta-head-detail .info-right li a {
+	color: #222;
+}
+.header-center .ta-head-detail li a i {
+	color: #222;
+}
+.header-center .ta-head-detail .info-right li a i {
+	color: #222;
+}
+/*==================== standhead Top Bar color ====================*/
+.ta-standhead .ta-head-detail {
+	background: #50b9ce;
+}
+.ta-standhead .ta-head-detail .info-left li a , .ta-standhead .ta-head-detail li a i, .ta-standhead .ta-head-detail .info-right li a {
+	color: #fff;
+}
+.ta-standhead .ta-head-detail li a i {
+	color: #fff;
+}
+.ta-standhead .ta-head-detail .info-right li a i {
+	color: #fff;
+}
+/*=== navbar Header colors ===*/
+.ta-headwidget .navbar-wp {
+	background: #000;
+}
+.ta-headwidget .navbar-header .navbar-brand {
+	color: #222;
+}
+.header-widget .ta-header-box-icon i { 
+	color: #50b9ce;
+	border-color: #ddd;
+}
+.ta-headwidget .navbar-wp .navbar-nav > li> a {
+	color: #fff;
+}
+.ta-headwidget .navbar-wp .navbar-nav > li > a:hover, .ta-headwidget .navbar-wp .navbar-nav > li > a:focus, .ta-headwidget .navbar-wp .navbar-nav > .active > a, .ta-headwidget .navbar-wp .navbar-nav > .active > a:hover, .ta-headwidget .navbar-wp .navbar-nav > .active > a:focus {
+	color: #fff;
+	background: #50b9ce;
+}
+.ta-headwidget .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+/*==================== Theme Menu ====================*/
+/*=== navbar Header colors ===*/
+.ta-standhead .navbar-wp {
+	background: #fff;
+}
+.ta-standhead .navbar-header .navbar-brand {
+	color: #222;
+}
+/*=== navbar hover colors ===*/
+.ta-standhead .navbar-wp .navbar-nav > li > a {
+	color: #222;
+}
+.ta-standhead .navbar-wp .navbar-nav > li > a:hover, .ta-standhead .navbar-wp .navbar-nav > li > a:focus, .ta-standhead .navbar-wp .navbar-nav > .active > a, .ta-standhead .navbar-wp .navbar-nav > .active > a:hover, .ta-standhead .navbar-wp .navbar-nav > .active > a:focus {
+	color: #50b9ce;
+}
+.ta-standhead .navbar-wp .navbar-nav > .open > a, .ta-standhead .navbar-wp .navbar-nav > .open > a:hover, .ta-standhead .navbar-wp .navbar-nav > .open > a:focus {
+	color: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta-standhead .navbar-default .navbar-toggle .icon-bar {
+	background: #222;
+}
+/*=== navbar transparent colors ===*/ 
+.ta-trhead .navbar-wp {
+	background: rgba(20, 17, 44, 0.8);
+}
+.ta-trhead .navbar-header .navbar-brand {
+	color: #fff;
+}
+/*=== navbar hover colors ===*/
+.ta-trhead .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.ta-trhead .navbar-wp .navbar-nav > li > a:hover, .ta-trhead .navbar-wp .navbar-nav > li > a:focus, .ta-trhead .navbar-wp .navbar-nav > .active > a, .ta-trhead .navbar-wp .navbar-nav > .active > a:hover, .ta-trhead .navbar-wp .navbar-nav > .active > a:focus {
+	color: #50b9ce;
+}
+.ta-trhead .navbar-wp .navbar-nav > .open > a, .ta-trhead .navbar-wp .navbar-nav > .open > a:hover, .ta-trhead .navbar-wp .navbar-nav > .open > a:focus {
+	color: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta-trhead .navbar-default .navbar-toggle .icon-bar {
+	background: #fff;
+}
+/*=== navbar center colors ===*/ 
+.header-center .navbar-wp {
+	background: #fff;
+	border-color: rgba(230, 230, 230, 0.7);
+}
+.header-center .navbar-brand {
+	color: #222;
+}
+.header-center .navbar-brand span.site-description {
+	color: #8f9294;
+}
+.header-center .navbar-nav > li > a {
+	color: #222;
+}
+.header-center .navbar-wp .navbar-nav > li > a:hover, .header-center .navbar-wp .navbar-nav > li > a:focus, .header-center .navbar-wp .navbar-nav > .active > a, .header-center .navbar-wp .navbar-nav > .active > a:hover, .header-center .navbar-wp .navbar-nav > .active > a:focus {
+	color: #50b9ce;
+}
+.header-center .navbar-wp .navbar-nav > .open > a, .header-center .navbar-wp .navbar-nav > .open > a:hover, .header-center .navbar-wp .navbar-nav > .open > a:focus {
+	color: #50b9ce;
+	border-color: #50b9ce;
+}
+/*=== navbar dropdown colors ===*/ 
+.navbar-wp .dropdown-menu {
+	background: #fff;
+}
+.navbar-wp .dropdown-menu > li > a {
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus {
+	background: #f5f5f5;
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > li > a:hover {
+	background: #f5f5f5;
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+}
+.ta-search-box .ta-search .btn {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+/*=== navbar drop down hover color ===*/
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	color: #fff;
+}
+.navbar-base .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+/*=== navbar toggle color ===*/ 
+.navbar-default .navbar-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	background: rgba(0,0,0,0);
+	color: #fff;
+}
+/*==================== Body & Global ====================*/
+.wrapper {
+	background: #fff;
+}
+body {
+	color: #999;
+}
+.ta-heading h3, .ta-heading h3 a {
+	color: #212121;
+}
+input[type="submit"], button {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+input[type="submit"]:hover, button:hover,input[type="submit"]:focus, button:focus {
+	background: #14112c;
+	border-color: #14112c;
+	color: #fff;
+}
+a {
+	color: #50b9ce;
+}
+a:hover, a:focus {
+	color: #14112c;
+}
+.ta-search-modal .ta-search .btn {
+	background: #50b9ce;
+	color: #fff;
+}
+.ta-search-modal .ta-search .btn:hover {
+	background: #14112c;
+}
+/*-- Alerts Styles --*/
+.alert-success, .text-success {
+	background-color: #2ac56c;
+	color: #fff;
+}
+.alert-info, .text-info {
+	background-color: #4593e3;
+	color: #fff;
+}
+.alert-danger, .text-danger {
+	background-color: #f06060;
+	color: #fff;
+}
+.alert-warning, .text-warning {
+	background-color: #fcd04b;
+	color: #fff;
+}
+.progress-bar-success {
+	background-color: #2ac56c;
+	color: #fff;
+}
+.progress-bar-info {
+	background-color: #4593e3;
+	color: #fff;
+}
+.progress-bar-danger {
+	background-color: #f06060;
+	color: #fff;
+}
+.progress-bar-warning {
+	background-color: #fcd04b;
+	color: #fff;
+}
+.subscription-success {
+	color: #2ac56c;
+}
+.subscription-error {
+	color: #f06060;
+} 
+.ta-error-404 h1 i {
+	color: #50b9ce;
+}
+/*==================== Slider ====================*/
+#ta-slider .slide-caption h1 {
+	color: #fff;
+}
+#ta-slider .slide-caption h1 > span {
+	color: #50b9ce;
+}
+.ta-slider-warraper .owl-controls .owl-buttons div {
+	background: #fff;
+	color: #212121;
+	border-color: #fff;
+}
+#ta-slider .ta-slider-inner {
+	background: rgba(0, 0,0, 0.4);
+}
+.ta-slider-warraper .slide-inner-box {
+	background: rgba(20, 17, 44, 0.8);
+}
+.ta-slider-warraper .slide-inner-box-two {
+	background: rgba(0, 0, 0, 0);
+	outline-color: #fff;
+}
+#ta-slider .slide-caption .description p {
+	color: #fff;
+}
+.btn.btn-tislider {
+	background: #50b9ce;
+	color: #fff;
+}
+.btn-tislider-two {
+	border-color: #fff;
+}
+.btn.btn-tislider:hover, .btn.btn-tislider:focus {
+	background: #212121;
+}
+.btn-tislider-two:hover, .btn-tislider-two:focus {
+	background: #50b9ce;
+	color: #fff;
+	border-color: #50b9ce;
+}
+.ta-slider-warraper .owl-controls .owl-buttons div:hover {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+.ta-slider-warraper .owl-controls .owl-page span {
+	border-color: #50b9ce;
+}
+/*==================== service ====================*/
+.ta-service {
+	background: #fff;
+	border-color: #eee;
+}
+.ta-service-inner h3, .ta-service-inner h3 a {
+	color: #121212;
+}
+.ta-service:hover .ta-service-inner .btn-theme {
+	background: #14112c;
+	color: #fff;
+}
+.ta-service-inner i {
+	color: #50b9ce;
+}
+.ta-service-inner p {
+	color: #999;
+}
+#service .owl-controls .owl-buttons div {
+	background: #fff;
+	border-color: #fff;
+	color: #14112c;
+}
+#service .owl-controls .owl-buttons div:hover {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+#service .owl-controls .owl-page span {
+	border-color: #50b9ce;
+}
+#service .owl-page.active {
+	background: #50b9ce;
+}
+/*==================== feature ====================*/
+.ta-feature-section .overlay {
+	background: #f4f4f4; 
+}
+.ta-feature-box {
+	background: #fff;
+	border-color: #eee;
+}
+.ta-feature-box-info h4, .ta-feature-box-info h4 a {
+	color: #222;
+}
+.ta-feature-box-info h4:hover, .ta-feature-box-info h4 a:hover, .ta-feature-box-info h4:focus, .ta-feature-box-info h4 a:focus {
+	color: #50b9ce;
+}
+.ta-feature-box-info p {
+	color: #949494;
+}
+.ta-feature-box-icon {
+	background: #50b9ce;
+}
+.ta-feature-box-icon i {
+	color: #fff;
+}
+.ta-feature-box:hover .ta-feature-box-icon {
+	border-color: #14112c;
+	background: #14112c;
+	color: #fff;
+}
+.ta-feature-box:hover .ta-feature-box-icon i {
+	color: #fff;
+}
+/*==================== req ====================*/
+.ta-req .overlay {
+	background: #14112c;
+}
+.ta-req h5, .ta-req p, .ta-req a {
+	color: #fff;
+}
+.ta-req .form-group .form-control {
+	color: #fff;
+}
+.ta-req .form-group label {
+	background: rgba(0,0,0,0);
+	color: #fff;
+}
+/*==================== portfolio ====================*/
+.ta-portfolio-box .overlay {
+	background: rgba(0, 0, 0, 0.6);
+}
+.ta-portfolio-box {
+	background: #fff;
+	border-color: #e6e9ed;
+}
+.ta-portfolio-box:hover {
+	border-color: #50b9ce;
+}
+.ta-portfolio-box figure {
+	border-color: #cccccc;
+}
+.ta-portfolio-box:hover .ta-portfolio-box-caption {
+	background: rgba(0,12,28,0.8);
+}
+.ta-portfolio-box h4, .ta-portfolio-box h4 a {
+	color: #212121;
+}
+.ta-portfolio-box h4:hover, .ta-portfolio-box h4 a:hover {
+	color: #50b9ce;
+}
+.ta-portfolio-category a {
+	color: #b6b6b6;
+}
+.ta-portfolio-category a:hover, .ta-portfolio-category a:focus {
+	color: #50b9ce;
+}
+.ta-portfolio-box .overlay .btn {
+	background: #fff; 
+	border-color: #fff;
+	color: #14112c;
+}
+.ta-portfolio-box .overlay .btn:hover, .ta-portfolio-box .overlay .btn:focus {
+	background: #14112c;
+	border-color: #14112c;
+	color: #fff;
+}
+#portfolio .owl-controls .owl-buttons div {
+	background: #fff;
+	border-color: #fff;
+	color: #14112c;
+}
+#portfolio .owl-controls .owl-buttons div:hover {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+#portfolio .owl-controls .owl-page span {
+	border-color: #50b9ce;
+}
+#portfolio .owl-page.active {
+	background: #50b9ce;
+}
+#portfolio .owl-page {
+	background: rgba(0,0,0,0.6);
+}
+.ta-view-detail-slider .owl-controls .owl-buttons div {
+	background: #fff;
+	border-color: #fff;
+	color: #212121;
+}
+.ta-view-detail-slider .owl-controls .owl-buttons div:hover {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+.ta-view-detail-slider .owl-page {
+	background: #fff;
+}
+.ta-view-detail-slider .owl-page.active {
+	background: #50b9ce;
+}
+.simplefilter li.active {
+	background: #50b9ce;
+	color: #fff;
+}
+.simplefilter li:hover, .simplefilter li:focus {
+	background: #50b9ce;
+	color: #fff;
+}
+/*==================== calltoaction ====================*/
+.ta-calltoaction .overlay {
+	background: #29282e;
+}
+.ta-calltoaction-box-info h5 {
+	color: #fff;
+}
+.ta-calltoaction-box-info p {
+	color: #fff;
+}
+/*==================== prosses ====================*/
+.ta-prosses-inner.active .ta-prosses-item-number, .ta-prosses-inner:hover .ta-prosses-item-number {
+	color: #fff;
+	background: #50b9ce;
+}
+.ta-prosses-inner::after {
+	border-color: #e0e2e4;
+}
+.ta-prosses-inner .ta-prosses-item-number {
+	background: #f5f5f5;
+	color: #50b9ce;
+}
+.ta-prosses .ta-prosses-item-content h3 {
+	color: #212121;
+}
+.ta-prosses .ta-prosses-item-content p {
+	color: #757575;
+}
+/*==================== callout ====================*/
+.ta-callout .overlay {
+	background: rgba(0, 12, 28, 0.2);
+}
+.ta-callout h3, .ta-callout p {
+	color: #fff;
+}
+/*==================== blog ====================*/
+.ta-blog-section .overlay {
+	background: #fff;
+}
+.ta-blog-post-box .title, .ta-blog-post-box .title a {
+	color: #212121;
+}
+.ta-blog-post-box .title:hover, .ta-blog-post-box .title a:hover, .ta-blog-post-box .title:focus, .ta-blog-post-box .title a:focus {
+	color: #50b9ce;
+}
+.ta-blog-category {
+	background: #50b9ce;
+    color: #fff;
+}
+.ta-blog-category a {
+	color: #fff;
+}
+.ta-blog-category i {
+	color: #999;
+}
+.ta-blog-date {
+	color: #999;
+}
+.ta-blog-date .h3::after {
+	border-color: #50b9ce;
+}
+.ta-comments h4 {
+	color: #212121;
+}
+.ta-blog-author {
+	background: #e8e8e8;
+}
+.ta-info-author-block {
+	border-color: #eee;
+	color: #999;
+}
+.ta-info-author-block a {
+	color: #212121;
+}
+.ta-info-author-block h4 {
+	color: #333;
+}
+.ta-info-author-block h4 span {
+	color: #999999;
+}
+.ta-info-author-block .ta-info-author-social li a {
+	color: #757575;
+}
+.ta-info-author-block .ta-info-author-social li:hover {
+	background: #50b9ce;
+	color: #fff;
+}
+.ta-info-author-block .ta-info-author-social li:hover a {
+	color: #fff;
+}
+.comment_section .comment-reply-link {
+	background: #f0f0f0;
+	color: #666;
+	border-color: #f0f0f0;
+}
+.ta-comments a {
+	color: #777;
+}
+.ta-comments h4 span {
+	color: #999999;
+}
+.ta-comments .comment .media-body > p:last-child {
+	border-color: #f0f0f0;
+}
+.ta-comments li .media-body > .small {
+	color: #999;
+}
+.ta-comments li .media-body > p {
+	border-color: #f0f0f0;
+	color: #999;
+}
+.ta-comments .comment-list li {
+	background: #fff;
+	border-color: #eee;
+}	
+.blog-slider .owl-controls .owl-buttons div {
+	background: #fff;
+	border-color: #fff;
+	color: #212121;
+}
+.blog-slider .owl-controls .owl-page span {
+	background: rgba(255,255,255,0.20);
+}
+.blog-slider .owl-controls .owl-page span.owl-numbers {
+	color: #fff;
+}
+/*==================== testimonials ====================*/
+.testimonials-section .overlay {
+	background: rgba(0, 0, 0, 0.4);
+}
+.testimonials-section .overlay h3, .testimonials-section .overlay h3 a, .testimonials-section .overlay p {
+	color: #f4f4f4;
+}
+.testimonials-section .sub-qute {
+	color: #f4f4f4;
+}
+.testimonials-section .testimonials_qute {
+	color: #212121;
+}
+.testimonials-section p.user-designation, .testimonials-section .user-designation a {
+    color: #f4f4f4;
+}
+#ta-testimonial .owl-controls .owl-buttons div {
+	background: #fff;
+	border-color: #fff;
+	color: #14112c;
+}
+#ta-testimonial .owl-controls .owl-buttons div:hover {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+#ta-testimonial .owl-controls .owl-page span {
+	border-color: #50b9ce;
+}
+#ta-testimonial .owl-page.active {
+	background: #50b9ce;
+}
+#ta-testimonial .owl-page {
+	background: rgba(0,0,0,0.6);
+}
+/*==================== clients ====================*/
+.ta-clients-section .item {
+	color: #fff;
+}
+.ta-clients-section .owl-controls .owl-buttons div {
+	background: #fff;
+	border-color: #fff;
+	color: #14112c;
+}
+.ta-clients-section .owl-controls .owl-buttons div:hover {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff;
+}
+.ta-clients-section .owl-controls .owl-page span {
+	border-color: #50b9ce;
+}
+.ta-clients-section .owl-page.active {
+	background: #50b9ce;
+}
+.ta-clients-section .owl-page {
+	background: rgba(0,0,0,0.6);
+}
+/*==================== subscriber ====================*/
+.ta-subscriber .overlay {
+	background: rgba(0, 12, 28, 0.8);
+}
+.ta-subscriber h3 {
+	color: #fff;
+}
+.ta-subscriber h5, .ta-subscriber a {
+	color: #fff;
+}
+.ta-subscriber p {
+	color: #fff;
+}
+.ta-subscriber p.subscription-success {
+	color: #2ac56c;
+}
+.ta-subscriber p.subscription-error {
+	color: #f06060;
+}
+.ta-subscriber .form-group .form-control {
+	color: #fff;
+}
+.ta-subscriber .form-group label {
+	color: #fff;
+}
+.ta-subscriber .form-group label::before {
+	background-color: #fff;
+}
+/*==================== funfact ====================*/
+.ta-funfact .overlay {
+	background: #eee;
+}
+.ta-funfact-inner .tittle {
+	color: #000;
+}
+.ta-funfact-inner span.counter {
+	color: #50b9ce;
+}
+.ta-funfact-inner i {
+	color: #8799a3;
+}
+.ta-funfact-inner h3 {
+	color: #fff;
+}
+/*==================== team ====================*/
+.ta-team-box .ta-team-info {
+	background: #fff;
+}
+.ta-team-info h3 {
+	color: #212121;
+}
+.ta-team-info p {
+	color: #757575;
+}
+.ta-team-social a {
+	background: #f2f2f2;
+	color: #757575;
+}
+.ta-team-social a:hover {
+	background: #50b9ce;
+	color: #fff;
+}
+/*==================== contact ====================*/
+.ta-contact h5, .ta-contact .ta-widget h6 {
+	color: #212121;
+	border-color: #eee;
+}
+.ta-contact h5::before ,.ta-contact .ta-widget h6::before {
+	border-color: #50b9ce;
+}
+.ta-contact .ta-widget-address li span.icon-addr i {
+	color: #50b9ce;
+}
+.ta-contact .ta-widget-address > li {
+	border-color: #eee;
+}
+/*==================== Sidebar ====================*/
+.ta-sidebar .ta-widget {
+	border-color: #eee;
+}
+.ta-sidebar .ta-widget h6 {
+	color: #212121;
+	border-color: #e5e5e5;
+}
+.ta-sidebar .ta-widget h6::before {
+	border-color: #50b9ce;
+}
+.ta-sidebar .ta-widget ul li {
+	border-color: #eee;
+}
+.ta-sidebar .ta-widget ul li a {
+	color: #50b9ce;
+}
+.ta-sidebar .ta-widget ul li a:hover, .ta-sidebar .ta-widget ul li a:focus {
+	color: #14112c;
+}
+.ta-sidebar .ta-widget .ta-blog-post h3 a {
+	color: #212121;
+}
+.ta-sidebar .ta-widget.widget_search .btn {
+	color: #fff;
+	background: #50b9ce;
+}
+.ta-sidebar .ta-widget.widget_search .btn:hover, .ta-sidebar .ta-widget.widget_search .btn:focus {
+	background: #14112c;
+}
+.ta-sidebar .ta-mailchimp-widget .btn {
+	color: #fff;
+	background: #50b9ce;
+}
+.ta-sidebar .ta-mailchimp-widget .btn:hover, .ta-sidebar .ta-mailchimp-widget .btn:focus {
+	background: #14112c;
+}
+.ta-sidebar .ta-widget .ta-widget-tags a, .ta-sidebar .ta-widget .tagcloud a {
+	background: transparent;
+	border-color: #969ea7;
+	color: #999;
+}
+.ta-sidebar .ta-widget .ta-widget-tags a:hover, .ta-sidebar .ta-widget .tagcloud a:hover, .ta-sidebar .ta-widget .ta-widget-tags a:focus, .ta-sidebar .ta-widget .tagcloud a:focus {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta-sidebar .ta-widget .ta-social li span.icon-soci {
+	color: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta-sidebar .ta-widget .ta-social li span.icon-soci:hover {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta-sidebar .ta-widget .ta-social li span.icon-soci:hover i {
+	color: #fff;
+}
+.ta-sidebar .ta-widget .ta-twitter-feed li::before {
+	color: #50b9ce;
+}
+.ta-sidebar .ta-left-menu-widget ul li:hover, .ta-sidebar .ta-left-menu-widget ul li.active {
+	background: #14112c;
+	color: #fff;
+}
+.ta-sidebar .ta-left-menu-widget ul li:hover a, .ta-sidebar .ta-left-menu-widget ul li.active a {
+	color: #fff;
+}
+.ta-sidebar .ta-left-menu-widget ul li a {
+	color: #212121;
+}
+/*==================== general ====================*/
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	color: #212121;
+}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
+	color: #50b9ce;
+}
+.btn-theme {
+	background: #50b9ce;
+	color: #fff;
+	border-color: #50b9ce;
+}
+.btn-theme:hover, .btn-theme:focus {
+	background: #14112c;
+	color: #fff;
+	border-color: #14112c;
+}
+.btn-theme-two {
+	color: #fff;
+	border-color: #fff;
+	background: rgba(0,0,0,0);
+}
+.btn-theme-two:hover, .btn-theme-two:focus {
+	background: #50b9ce;
+	color: #fff;
+	border-color: #50b9ce;
+}
+.btn-blog:hover, .btn-blog:focus {
+	background: #50b9ce;
+	color: #fff;
+	border-color: #50b9ce;
+}
+/*==================== pagination color ====================*/
+.pagination > li > a, .pagination > li > span {
+	color: #212121;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	border-color: #50b9ce;
+	background: #50b9ce;
+	color: #fff;
+}
+/*==================== typo ====================*/
+.ta-skills h5, .ta-skills h6 {
+	color: #212121;
+}
+.ta-skills h5::before {
+	border-color: #50b9ce;
+}
+.ta-skills .progress-bar {
+	background: #50b9ce;
+}
+.ta-breadcrumb-title h1 {
+	color: #fff;
+}
+.ta-page-breadcrumb > li a {
+	color: #fff;
+}
+.ta-page-breadcrumb > li a:hover, .ta-page-breadcrumb > li a:focus {
+	color: #50b9ce;
+}
+.ta-page-breadcrumb > li + li:before {
+	color: #fff;
+}
+/*==================== blog ====================*/
+.ta-comments .ta-reply:hover, .ta-comments .ta-reply:focus {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta-heading-bor-bt h5 {
+	color: #212121;
+}
+.ta-heading-bor-bt h5::before {
+	border-color: #50b9ce;
+}
+/*==================== footer background ====================*/
+footer .overlay {
+	background: #222;
+}
+footer .ta-footer-top-area h6 {
+	color: #fff;
+}
+footer .ta-widget h6 {
+	color: #fff;
+}
+footer .ta-widget ul li {
+	color: #969ea7;
+}
+footer .ta-widget ul li a {
+	color: #969ea7;
+}
+footer .ta-widget ul li a:hover, footer .ta-widget ul li a:focus {
+	color: #fff;
+}
+footer .ta-widget .ta-widget-address li {
+	color: #969ea7;
+}
+footer .ta-widget .ta-opening-hours li {
+	color: #969ea7;
+}
+footer .ta-blog-post h3, footer .ta-blog-post h3 a {
+	color: #fff;
+}
+footer .ta-widget .ta-widget-address li span.icon-addr i {
+	color: #fff;
+}
+footer .ta-blog-post span {
+	color: #969ea7;
+}
+footer .ta-widget .ta-twitter-feed li a {
+	color: #50b9ce;
+}
+footer .ta-footer-copyright {
+	background: rgba(0,0,0,0.2);
+}
+footer .ta-footer-copyright p, footer .ta-footer-copyright a {
+	color: #969ea7;
+}
+footer .ta-footer-copyright a:hover, footer .ta-footer-copyright a:focus {
+	color: #fff;
+}
+footer .ta-widget p {
+	color: #fff;
+}
+footer .ta-footer-copyright .ta-social-navigation a {
+	color: #fff;
+}
+footer .ta-social-navigation a {
+	background: rgba(255, 255, 255, 0.07);
+	color: #fff;
+}
+footer .ta-social-navigation a:hover, footer .ta-social-navigation a:focus {
+	border-color: #50b9ce;
+	background: #50b9ce;
+}
+footer .ta-social-navigation a:hover .icon, footer .ta-social-navigation a:focus .icon {
+	color: #fff;
+}
+footer .ta-widget.widget_search .btn {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+footer .ta-widget.widget_search .btn:hover, footer .ta-widget.widget_search .btn:focus {
+	background: #14112c;
+	border-color: #14112c;
+}
+footer .ta-mailchimp-widget .btn {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+footer .ta-mailchimp-widget .btn:hover, footer .ta-mailchimp-widget .btn:focus {
+	background: #14112c;
+	border-color: #14112c;
+}
+footer .ta-widget .ta-widget-tags a, footer .ta-widget .tagcloud a {
+	background: transparent;
+	border-color: #969ea7;
+	color: #fff;
+}
+footer .ta-widget .ta-widget-tags a:hover, footer .ta-widget .tagcloud a:hover, footer .ta-widget .ta-widget-tags a:focus, footer .ta-widget .tagcloud a:focus {
+	color: #fff;
+	background: #50b9ce;
+	border-color: #50b9ce;
+}
+.ta_upscr {
+	background: #50b9ce;
+	border-color: #50b9ce;
+	color: #fff !important;
+}
+.ta_upscr:hover, .ta_upscr:focus {
+	color: #fff;
+}
+/*form-control*/
+.form-group label {
+    color: #515151;
+}
+.form-control:focus {
+	border-color: #50b9ce;
+}
+.form-group label::before {
+    background-color: #dddddd;
+}
+.form-group label::after {
+	background-color: #50b9ce;
+}
+
+
+/*Responsive*/ 
+@media (max-width: 992px) {
+.ta-trhead {
+	background: rgba(0,12,28,0.8);
+}
+}
+
+.woocommerce-page .products h3 {
+	color: #333;
+}
+.woocommerce div.product .woocommerce-tabs .panel h2 {
+	color: #333;
+}
+.related.products h2 {
+	color: #333;
+}
+.woocommerce nav.woocommerce-pagination ul li a {
+	color: #333;
+}
+.woocommerce nav .woocommerce-pagination ul li span {
+	color: #333;
+}
+.woocommerce nav.woocommerce-pagination ul li a {
+	border-color: #ddd;
+}
+.woocommerce nav .woocommerce-pagination ul li span {
+	border-color: #ddd;
+}
+
+/*----woocommerce----*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+	border-color: #ebebeb;
+}
+/*-theme-background-*/ 
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
+	background: #50b9ce;
+}
+/*-theme-color-*/ 
+.woocommerce a, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page .products .added_to_cart, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+	color: #50b9ce;
+}
+/*-theme-border-color-*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text:hover, .woocommerce-cart table.cart td.actions .coupon .input-text:focus, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav .woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+	border-color: #50b9ce;
+}
+
+/*-theme-secondary-background-*/ 
+.woocommerce #review_form #respond .form-submit input:hover, .woocommerce-page .products a.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	background: #161c28;
+}
+/*-theme-secondary-color-*/ 
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+	color: #161c28;
+}
+/*-theme-color-white-*/ 
+.woocommerce-page .woocommerce .woocommerce-info a, .woocommerce-page .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-message, .woocommerce-page .woocommerce-message a, .woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus, .woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-error a, .woocommerce-page .woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-info a, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce .woocommerce-info, .woocommerce-cart .wc-proceed-to-checkout a .checkout-button, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	color: #fff;
+}
+
+.woocommerce .products span.onsale, .woocommerce span.onsale {
+	background: #50b9ce;
+}
+
+.woocommerce-page .products a .price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #000;
+}
+.woocommerce-page .products a .price ins {
+	color: #e96656;
+}
+.woocommerce-page .products .star-rating, .woocommerce-page .star-rating span, .woocommerce-page .stars span a {
+	color: #ffc107;
+}
+
+/*woocommerce-messages*/
+.woocommerce-page .woocommerce-message {
+	background: #2ac56c;
+}
+.woocommerce-page .woocommerce-message a {
+	background-color: #50b9ce;
+}
+.woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus {
+	background-color: #388e3c;
+}
+.woocommerce-page .woocommerce-error {
+	background: #ff5252;
+}
+.woocommerce-page .woocommerce-error a {
+	background-color: #F47565;
+}
+.woocommerce-page .woocommerce-info {
+	background: #4593e3;
+}
+.woocommerce-page .woocommerce-info a {
+	background-color: #5fb8dd;
+}
+.woocommerce-page .woocommerce .woocommerce-info {
+	background: rgb(58, 176, 226);
+}
+
+/*woocommerce-Price-Slider*/ 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background: #50b9ce;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background: #50b9ce;
+}
+.woocommerce-page .woocommerce-ordering select {
+	color: #A0A0A0;
+}
+/*woocommerce-price-filter*/
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+	background: #1a2128;
+}
+/*woocommerce-form*/
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	border-color: #eee;
+	color: #ccc;
+}

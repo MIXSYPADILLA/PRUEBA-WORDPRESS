@@ -1,0 +1,1 @@
+WebFontConfig={timeout:2e3},mk_typekit_id.length>0&&(WebFontConfig.typekit={id:mk_typekit_id}),mk_google_fonts.length>0&&(WebFontConfig.google={families:mk_google_fonts}),(0<mk_google_fonts.length||0<mk_typekit_id.length)&&-1==navigator.userAgent.indexOf("Speed Insights")&&WebFont.load(WebFontConfig);

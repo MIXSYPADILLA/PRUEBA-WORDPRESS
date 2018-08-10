@@ -1,0 +1,55 @@
+/* -------------------------------------------------
+   Estilos para la sección de rastreo de equipos
+   ----------------------------------------------- */
+.frm-info, {
+   width: 100%;
+   z-index: -1;
+}
+#mapaGoogle {
+   height: 600px;
+   width: 100%;
+   z-index:0;
+}
+.frm-info {
+   background: gray;
+}
+.divIzq {
+   float: left;
+   width: 150px;
+}
+.divIzq small {
+   display: block;
+   margin-top:5px;
+   margin-left: 10px;
+}
+.divDer {
+   float: right;
+   width: 600px;
+}
+form select {
+   width: 400px;
+   font-size: 14px;
+   /*background-color: transparent;
+   background: url(../img/ui/select_normal.png) no-repeat 560px;
+   color: #42DCFF;*/
+   height:25px;
+   /*border: none;*/
+}
+.reporte {
+   width: 100%;
+   font-size: 0.8em;
+   margin-top: 15px;
+}
+.reporte thead th{
+   background-color: #967856;
+   padding: 5px;
+}
+.reporte td {
+   padding:5px;
+   border: 1px solid #FFF;
+   color: #B8B8B8;
+}
+.reporte tr:hover td {
+   background-color: #4F4F4F;
+   color: #FFF;
+}

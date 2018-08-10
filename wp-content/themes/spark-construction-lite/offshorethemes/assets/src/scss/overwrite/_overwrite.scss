@@ -1,0 +1,36 @@
+
+// This is overwrite scss file were we set our styles to overwrite the framework styles
+
+
+
+// Might be you wana do something with .container class too
+
+.container {
+
+	max-width: 100%;
+}
+
+
+// Kill framework auto margin and padding
+
+h1,h2,h3,h4,h5,h6,strong,p,form,span,ul,ol,form,input {
+
+	margin:0px;
+	padding:0px;
+}
+
+
+// ancour text decoration on hover
+
+a {
+
+	text-decoration: none !important;
+}
+
+// ul and ol list style
+
+ol,ul {
+
+	list-style: none;
+	margin:0;
+}

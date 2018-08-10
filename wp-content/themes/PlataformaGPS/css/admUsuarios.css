@@ -1,0 +1,50 @@
+/* Contenedor de secciones */
+.contenido {
+   width: 800px;
+   margin: 0 auto;
+}
+.pSuperior {
+   width:100%;
+}
+.aIzq {
+   width: 200px;
+   float:left;
+   padding:5px;
+}
+.flotar{
+   width: 180px;
+   padding:5px;
+   position:absolute;
+   margin-left:18px;
+   margin-top:-13px;
+   background-color: #000;
+   color:#AAA;
+   font-weight:bold;
+}
+.aDer {
+   height:95px;
+   width: 550px;
+   padding:8px;
+   float:right;
+   margin-right:10px;
+   border: 2px solid #555;
+}
+/* Sección de lista de usuarios */
+.ListaUsuarios {
+   width: 95%;
+   padding:5px;
+   margin:0 auto;
+}
+.reporte thead th{
+   background-color: #967856;
+   padding: 5px;
+}
+.reporte td {
+   padding:5px;
+   border-bottom: 1px solid #FFF;
+   color: #B8B8B8;
+}
+.reporte tr:hover td {
+   background-color: #4F4F4F;
+   color: #FFF;
+}

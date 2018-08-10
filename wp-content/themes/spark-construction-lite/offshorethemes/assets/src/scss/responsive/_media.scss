@@ -1,0 +1,407 @@
+
+// Hnadelling typography in media query first 
+
+@media (max-width: 1100px) {
+
+    h1 {
+
+        font-size: 32px;
+    }
+
+    h2 {
+
+        font-size: 24px;
+    }
+
+    h3 {
+
+        font-size: 18px;
+    }
+
+    h4 {
+
+        font-size: 16px;
+    }
+
+    h5 {
+
+        font-size: 14px;
+    }
+
+    h6 {
+
+        font-size: 12px;
+    }
+}
+
+
+@media (max-width: 1025px) {
+
+    .spc_banner .home_page_slider .slider_caption h2 {
+
+        font-size: 42px;
+    }
+
+    .spc_banner .home_page_slider .slider_caption p {
+
+        padding: 0 5%;
+    }
+
+    .spc_banner .home_page_slider .slider_caption a {
+
+        border: 1px solid $secondary_color;
+    }
+
+    .spc_banner .home_page_slider .slider_caption a:hover {
+
+        border: 1px solid $secondary_color;
+    }
+    .spc_pricing .pricing__table {
+
+        width: 30.33%;
+    }
+
+    aside .widget_wrapper .widget_contents_holder .widget_col_box .box_details .the_content {
+
+        display: none;
+    }
+}
+
+@media (max-width: 993px) {
+
+    .spc_pricing .pricing__table {
+
+        padding: 40px 10px;
+    }
+
+    .spc_pricing .pricing__table {
+        width: 29.33%;
+    }
+    .spc_pricing .order__button {
+
+        width: 80%;
+    }
+    .spc_banner .home_page_slider .slider_caption {
+
+        top: 50%;
+    }
+    .spc_banner .home_page_slider .slider_caption h2 {
+
+        font-size: 28px;
+    }
+    .spc_banner .home_page_slider .slider_caption p {
+
+        font-size: 12px;
+    }
+    .spc_banner .home_page_slider .slider_caption a {
+
+        display: none;
+    }
+
+    .spc_general_single_page_main_wrapper .single_inner .social_sharing {
+
+        margin-bottom: 40px;
+    }
+    aside.project_sidebar .widget_wrapper .widget_contents_holder .widget_col_box .box_details h4 {
+
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 801px) {
+
+
+    .spc_general_header .header_mask,
+    .spc_general_header.spc_header_layout_one .header_mask {
+
+        position: relative !important;
+        background-color: rgba(17, 17, 17, 1);
+    }
+
+    .spc_header_nav_and_logo_holder {
+
+        padding: 25px 0px 10px 0;
+    }
+
+
+
+    .spc_banner .home_page_slider .slider_caption {
+
+        top: 36%;
+    }
+
+    .spc_banner .home_page_slider .slider_caption p {
+
+        font-size: 14px;
+    }
+
+    .spc_banner .home_page_slider .slider_caption p {
+        padding: 0 1%;
+    }
+
+    .spc_banner .home_page_slider .slider_caption h2 {
+
+        font-size: 42px;
+    }
+
+    .spc_general_header ul.company_extraa_info li span.opening_timing {
+
+        display: none;
+    }
+
+    .spc_general_header .header_top_right ul.company_extraa_info li:last-child,
+    .spc_general_header .header_top_right ul.company_extraa_info li:nth-child(2) {
+
+        padding-right: 0;
+    }
+
+
+
+    header .spc_header_nav_and_logo_holder .logo_holder {
+
+        padding-bottom: 20px;
+        max-width: 320px;
+        width: 100%;
+    }
+
+    header .spc_header_nav_and_logo_holder .logo_holder img {
+
+        display: block;
+        margin: 0 auto;
+        max-width: 320px;
+        width: 100%;
+    }
+
+    header.spc_general_header.spc_header_layout_two .spc_header_nav_and_logo_holder .logo_holder {
+
+        text-align:left;
+    }
+
+    nav ul.primary_nav {
+
+        text-align: center;
+    }
+
+    section.spc_who_we_are .who_we_are_left_block {
+
+        margin-bottom: 40px;
+    }
+
+    aside,
+    aside.project_sidebar,
+    aside.sidebar {
+        margin-top: 30px;
+    }
+
+    aside.project_sidebar .widget_wrapper .widget_contents_holder .widget_col_box .box_details h4 {
+
+        font-size: 18px;
+    }
+
+    aside .widget_wrapper .widget_contents_holder .widget_col_box .box_details .the_content {
+
+        display: block;
+    }
+
+    aside.project_sidebar .widget_wrapper .widget_contents_holder .widget_col_box .box_details {
+
+        padding-top: 40px;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+
+    
+    header nav .menu-collapser {
+
+        height: 50px;
+    }
+
+    header.spc_general_header.spc_header_layout_two .spc_header_nav_and_logo_holder nav.primary_navigation ul.primary_nav {
+
+        text-align:left;
+    }
+
+    header.spc_header_layout_two nav .menu-collapser .collapse-button {
+
+        left: 0;
+    }
+
+    header .spc_header_nav_and_logo_holder .logo_holder img {
+
+        margin: 0;
+    }
+    header .primary_navigation .menu_close_btn,
+    header .primary_navigation .menu_close_btn a,
+    header .primary_navigation .menu_close_btn a .fa {
+
+        display: block !important;
+    }
+}
+
+@media (max-width: 767px) {
+
+    header .spc_general_header ul.company_extraa_info,
+    header .header_social ul.social_icons_list {
+
+        text-align: center;
+    }
+
+    header .header_social {
+
+        padding-bottom: 10px;
+    }
+
+    .spc_general_header ul.company_extraa_info li span.opening_timing {
+
+        display: inline-block;
+    }
+
+
+    .spc_general_header .header_top_right ul.company_extraa_info li:nth-child(2),
+    .spc_general_header .header_top_right ul.company_extraa_info li:last-child {
+
+        padding-right: 30px;
+    }
+
+
+
+    .spc_banner .home_page_slider .slider_caption p {
+
+        display: none;
+    }
+
+    section.spc_recent_project .section_content ul.nav li {
+
+        margin-bottom: 10px;
+        width: 30%;
+        display: inline-block;
+    }
+
+    .spc_general_single_page_main_wrapper .post_desc {
+
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 700px) {
+
+    .spc_pricing .pricing__table {
+        width: 100%;
+        max-width: 100%;
+        margin: 20px 30px;
+    }
+
+    .spc_pricing .pricing__table:nth-child(2) {
+
+        transform: none;
+    }
+}
+
+@media (max-width: 500px) {
+
+    
+    .spc_general_header ul.company_extraa_info,
+    header .header_social ul.social_icons_list {
+
+        text-align: left;
+    }
+    .spc_general_header ul.company_extraa_info li span.opening_timing {
+
+        display: none;
+    }
+    .spc_general_header .header_top_right ul.company_extraa_info li:last-child,
+    .spc_general_header .header_top_right ul.company_extraa_info li:nth-child(2) {
+
+        padding-right: 0;
+    }
+    header .spc_header_nav_and_logo_holder .logo_holder img, 
+    header.spc_header_layout_two .spc_header_nav_and_logo_holder .logo_holder img {
+    width: auto;
+    max-width: 100%;
+    }
+
+    header nav .menu-collapser {
+        height: 45px;
+    }
+
+    .spc_banner .home_page_slider .slider_caption {
+
+        top: 40%;
+    }
+
+    .spc_banner .home_page_slider .slider_caption h2 {
+
+        font-size: 22px;
+    }
+
+    .spc_pricing .pricing__table {
+
+        display:block;
+        width: 100%;
+        margin:30px auto;
+    }
+
+    section.spc_recent_project .section_content ul.nav li {
+
+        font-size: 12px;
+    }
+
+    aside.project_sidebar .widget_wrapper .widget_contents_holder .widget_col_box .box_details {
+
+        padding-top: 10px;
+    }
+
+    aside.project_sidebar .widget_wrapper .widget_contents_holder .widget_col_box .box_details h4 {
+
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 400px) {
+
+    .spc_general_header ul.company_extraa_info li,
+    .spc_general_header ul.company_extraa_info li span.opening_timing {
+
+        display: block;
+        padding: 3px !important;
+    }
+
+    .spc_banner .home_page_slider .slider_caption h2 {
+
+        font-size: 16px;
+    }
+
+    section.spc_recent_project .section_content ul.nav li {
+
+        width: 48%;
+    }
+
+    section.spc_recent_project .item-desc {
+
+        padding: 5px;
+
+        a {
+
+            font-size: 12px;
+        }
+    }
+
+    section.spc_recent_project .item-position {
+
+        display: none;
+    }
+
+    .spc_testinomial .section_content .testinomial_content_outer {
+
+        margin: 30px 10px;
+    }
+
+    aside.project_sidebar .widget_wrapper .widget_contents_holder .widget_col_box .box_details {
+
+        padding-top: 0;
+    }
+}

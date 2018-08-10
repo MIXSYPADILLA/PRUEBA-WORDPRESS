@@ -1,0 +1,37 @@
+/**
+ * Global styles.
+ */
+
+.woocommerce, .woocommerce-page {
+	/**
+	 * Buttons
+	 */
+	a.button,
+	button.button,
+	input.button,
+	#respond input#submit {
+		border-radius: 0;
+		border-style: solid;
+		background-color: #454ea2;
+		color: #fff;
+		font-size: 12px;
+		padding: 13px 30px;
+		
+		&:hover {
+			background-color: lighten(#454ea2, 10%);
+			color: #fff;
+		}
+	}
+}
+
+/**
+ * Import all partials.
+ */
+@import '_badges';
+@import '_loop';
+@import '_pagination';
+@import '_single-product';
+@import '_single-product-2';
+@import '_single-product-3';
+@import '_single-product-4';
+@import '_slick';

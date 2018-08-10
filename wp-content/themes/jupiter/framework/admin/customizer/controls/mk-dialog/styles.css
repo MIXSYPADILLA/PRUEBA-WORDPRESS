@@ -1,0 +1,239 @@
+/* Sidebar */
+.customize-control-mk-dialog > p {
+	color: #a6a6a6;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 13px;
+}
+
+.customize-control-mk-dialog .mk-dialog-button {
+	display: block;
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	padding: 6px 11px;
+	height: auto;
+	width: 100%;
+	text-align: left;
+	font-size: 14px;
+	color: #555;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
+	margin-bottom: 10px;
+	background-color: #f7f7f7;
+}
+
+.customize-control-mk-dialog .mk-dialog-button:hover,
+.customize-control-mk-dialog .mk-dialog-button:hover svg,
+.customize-control-mk-dialog .mk-dialog-button:focus,
+.customize-control-mk-dialog .mk-dialog-button:focus svg {
+	color: #262b30;
+	fill: #262b30;
+}
+
+.customize-control-mk-dialog .mk-dialog-button:disabled {
+	border-color: #cccccc !important;
+	color: #262b30 !important;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1) !important;
+}
+
+.customize-control-mk-dialog .mk-dialog-button img,
+.customize-control-mk-dialog .mk-dialog-button svg {
+	vertical-align: -5px;
+	margin-right: 10px;
+}
+
+/* Dialog */
+.ui-dialog {
+	position: relative;
+	background-color: #333333;
+	border: 1px solid #333333;
+	z-index: 500000;
+	color: #fff;
+	border-radius: 5px;
+	box-shadow: 0px 4px 11px 0px rgba(0, 0, 0, 0.2), 0px 20px 40px 0px rgba(0, 0, 0, 0.4);
+}
+
+.ui-dialog.mk-dialog-child-open {
+	z-index: 500000 !important;
+	user-select: none;
+}
+
+.ui-dialog.mk-dialog-child-open:before {
+	position: absolute;
+	content: '';
+	background-color: rgba(51, 51, 51, 0.5);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	border-radius: 5px;
+	z-index: 500001;
+}
+
+.ui-dialog.mk-dialog-child {
+	background-color: #535353;
+}
+
+.ui-dialog-titlebar {
+	padding: 11px 20px;
+	font-weight: bold;
+}
+
+/*.mk-dialog-child .ui-dialog-titlebar .ui-dialog-title {
+	font-size: 18px;
+}*/
+
+.mk-dialog-child .ui-dialog-titlebar {
+	padding-bottom: 25px;
+}
+
+.ui-dialog-titlebar:hover {
+	cursor: move;
+}
+
+.ui-dialog-titlebar-close {
+	position: relative;
+	float: right;
+	background-color: transparent;
+	border: 1px solid #37c4ff;
+	color: #37c4ff;
+	border-radius: 3px;
+	padding: 5px 11px 5px 23px;
+	margin: -5px -14px;
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.ui-dialog-titlebar-close:before {
+	content: '';
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 3px 5px 3px 0;
+	border-color: transparent #37c3ff transparent transparent;
+}
+
+.mk-dialog-child .ui-dialog-titlebar-close {
+	border-width: 0;
+	color: #d9d9d9;
+	margin: -4px -11px;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+
+.mk-dialog-child .ui-dialog-titlebar-close:before,
+.mk-dialog-child .ui-dialog-titlebar-close:after {
+	position: absolute;
+	left: 26px;
+	top: 5px;
+	content: ' ';
+	height: 9px;
+	width: 1px;
+	background-color: #d9d9d9;
+	border: none;
+}
+
+.mk-dialog-child .ui-dialog-titlebar-close:before {
+	transform: rotate(45deg);
+}
+
+.mk-dialog-child .ui-dialog-titlebar-close:after {
+	transform: rotate(-45deg);
+}
+
+.ui-dialog-titlebar-close:focus {
+	outline-width: 0;
+}
+
+.ui-dialog-titlebar-close:hover {
+	cursor: pointer;
+}
+
+.ui-dialog-content {
+	overflow-y: auto;
+	background-color: #535353;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.ui-dialog-content .customize-control-title {
+	font-size: 12px;
+}
+
+.ui-dialog-content textarea,
+.ui-dialog-content input,
+.ui-dialog-content select {
+	font-size: 13px;
+}
+
+.ui-tabs-nav {
+	border-bottom: 1px solid #333333;
+	background: #333333;
+	margin-top: 0;
+}
+
+.ui-tabs-nav > li {
+	display: inline-block;
+	border-color: #262626;
+	border-style: solid;
+	border-width: 1px 1px 0 0;
+	border-bottom: 1px solid #262626;
+	margin-bottom: -1px;
+}
+
+.ui-tabs-nav > li:focus {
+	outline-width: 0;
+}
+
+.ui-tabs-nav a {
+	padding: 10px 20px;
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	background-color: #424242;
+}
+
+.ui-tabs-nav a:focus {
+	box-shadow: 0 0 0;
+}
+
+.ui-tabs-nav .ui-state-active {
+	border-bottom: 1px solid #535353;
+}
+
+.ui-tabs-nav .ui-state-active a {
+	background-color: #535353;
+}
+
+.ui-tabs-panel .mk-style-title {
+	margin-top: 6px;
+	display: block;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.ui-tabs-panel .mk-child-dialog-button {
+	background-color: #6b6b6b;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+	border-color: #6b6b6b;
+	color: #fff;
+	font-size: 11px;
+	margin-bottom: 4px;
+	padding: 2px 14px;
+	height: auto;
+}
+
+.ui-tabs-panel .mk-child-dialog-button span {
+	font-size: 16px;
+	vertical-align: middle;
+}
+
+.ui-tabs-panel .mk-child-dialog-button:hover,
+.ui-tabs-panel .mk-child-dialog-button:focus {
+	background-color: #757575;
+	border-color: #757575;
+	color: #fff;
+}

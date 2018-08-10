@@ -1,0 +1,932 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Spark Construction Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-08 05:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:26
+msgid "404"
+msgstr ""
+
+#: 404.php:33
+msgid "OOOPS! page not found"
+msgstr ""
+
+#: 404.php:38
+msgid ""
+"The page you requested either has moved or doesn't exists in this server!"
+msgstr ""
+
+#: 404.php:45
+msgid "Go Homepage"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: functions.php:55
+msgid "Social"
+msgstr ""
+
+#: functions.php:115
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:117 functions.php:127
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:125
+msgid "Footer Widget Area"
+msgstr ""
+
+#. %s: search query.
+#: search.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: offshorethemes/filters.php:17 offshorethemes/filters.php:19
+#: offshorethemes/customizer/customizer.php:74
+msgid "Search"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: offshorethemes/helpers.php:27
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: offshorethemes/hooks.php:153
+msgid "&laquo;"
+msgstr ""
+
+#: offshorethemes/hooks.php:154
+msgid "&raquo;"
+msgstr ""
+
+#: offshorethemes/hooks.php:187
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: offshorethemes/hooks.php:191
+msgid "Offshorethemes"
+msgstr ""
+
+#: section-parts/section-about.php:50 section-parts/section-about.php:126
+msgid "col-md-12"
+msgstr ""
+
+#: section-parts/section-about.php:50 section-parts/section-about.php:126
+msgid "col-md-6"
+msgstr ""
+
+#: template-parts/content-index.php:47 template-parts/content-search.php:47
+#: offshorethemes/customizer/defaults.php:96
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content-single.php:42
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:45 template-parts/content-single.php:51
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/core/template-tags.php:18
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: offshorethemes/core/template-tags.php:21
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:81
+#: offshorethemes/customizer/customizer-controls.php:196
+msgid "Item"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:181
+msgid "Add an item"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:316
+#: offshorethemes/customizer/customizer-controls.php:338
+#: offshorethemes/customizer/customizer-controls.php:350
+msgid "Remove"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:317
+msgid "Add"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:317
+msgid "Change"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:352
+msgid "Close"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-functions.php:16
+msgid "Select Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:78
+msgid "Font Awesome"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:9
+#: offshorethemes/admin/about-theme/info.php:74
+msgid "Theme Options"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:10
+msgid "Spark Construction Customization Options"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:15
+msgid "Web Page Layouts"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:26
+msgid "Choose Web Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:30
+msgid "Boxed Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:31
+msgid "Full Width Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:36
+msgid "HomePage Options"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:37
+msgid "Spark Construction Home Page Customization Options"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:10
+#: offshorethemes/customizer/options/option-theme/option-archive.php:25
+msgid "Sidebar Position"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:24
+msgid "Left Sidebar"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:29
+msgid "Right (Default)"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:34
+msgid "Full width"
+msgstr ""
+
+#: offshorethemes/ocdi/ocdi.php:22
+msgid "Theme Demo Content"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:19
+msgid "Contact Form 7"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:25 offshorethemes/admin/about-theme/info.php:85
+#: offshorethemes/admin/about-theme/info.php:131
+msgid "One Click Demo Import"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: offshorethemes/third-party/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: offshorethemes/third-party/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: offshorethemes/third-party/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: offshorethemes/third-party/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: offshorethemes/third-party/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:788
+#: offshorethemes/third-party/breadcrumbs.php:817
+#: offshorethemes/third-party/breadcrumbs.php:844
+#: offshorethemes/third-party/breadcrumbs.php:871
+#: offshorethemes/third-party/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:789
+#: offshorethemes/third-party/breadcrumbs.php:845
+#: offshorethemes/third-party/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:790
+#: offshorethemes/third-party/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:19
+msgid "Company Info"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:22
+msgid "SC: Comapany Info"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:67 offshorethemes/widgets/widgets.php:224
+msgid "Address: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:81 offshorethemes/widgets/widgets.php:229
+msgid "Phone: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:95 offshorethemes/widgets/widgets.php:234
+msgid "Email: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:219
+msgid "Title: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:239
+msgid "Facebook Link: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:244
+msgid "Twitter Link: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:249
+msgid "Google Plus Link: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:254
+msgid "VK Link: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:259
+msgid "Instagram Link: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:264
+msgid "Pinterest Link: "
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:269
+msgid "Linkedin Link: "
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:121
+#: offshorethemes/admin/about-theme/class.info.php:122
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:231
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:340
+#: offshorethemes/admin/about-theme/class.info.php:381
+msgid "Manage Plugins"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:20
+#, php-format
+msgid ""
+"%1$s is a Multipurpose WordPress Theme which is designed and developed "
+"targetting agencies and companies which deal with construction, renovation, "
+"architecture design, engineering etc. It has beautiful, elegant and "
+"attractive design and meets the need to build constuction and related "
+"field’s websites. It is based on customizer from where you can easily "
+"customize your site. It has reponsive design, cross browser compatible, and "
+"is developed with respect to WordPress Standards. It is compatible with "
+"plugin Contact Form 7 , is translation ready and SEO friendly. Although the "
+"theme targets construction houses, it can be used for corporate and business "
+"websites."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:25
+msgid "Support"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:27
+#: offshorethemes/admin/about-theme/info.php:83
+#: offshorethemes/admin/about-theme/info.php:86
+msgid "Demo Content"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:35
+msgid "Theme Details"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:40
+msgid "View Demo"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:45
+#: offshorethemes/admin/about-theme/info.php:67
+#: offshorethemes/admin/about-theme/info.php:108
+msgid "View Documentation"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:50
+msgid "Rate This Theme"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:55
+#: offshorethemes/admin/about-theme/info.php:137
+msgid "Buy Pro Themes"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:64
+#: offshorethemes/admin/about-theme/info.php:105
+msgid "Theme Documentation"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:66
+#: offshorethemes/admin/about-theme/info.php:107
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:76
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:77
+msgid "Customize"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:85
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:96
+#: offshorethemes/admin/about-theme/info.php:99
+msgid "Contact Support"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:98
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:114
+msgid "Child Theme"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:116
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:117
+msgid "Learn More"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:126
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:131
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see Import Demo Data menu under Appearance."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:136
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+
+#: offshorethemes/customizer/customizer-pro/class-customize.php:77
+msgid "Upgrade To Spark Construction Pro"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:15
+msgid "About Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:26
+msgid "Enable About Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:38
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:38
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:38
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:38
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:38
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:38
+msgid "Section Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:50
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:50
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:50
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:50
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:50
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:50
+msgid "Section Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:62
+msgid "Section Vid Link"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:63
+msgid "Enter the link of youtube or vimeo video link here."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:74
+msgid "Accordion Content"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:80
+msgid "Only 5 accordion items can be added."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-abtsec.php:83
+msgid "Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:15
+msgid "Slider Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:26
+msgid "Enable Slider"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:38
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:49
+msgid "Slider Content"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:54
+msgid "Only 5 slider items can be added."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:58
+msgid "Slider Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:63
+msgid "Slider Button Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-banner.php:67
+msgid "Slider Button Link"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:15
+msgid "Blog Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:26
+msgid "Enable Blog Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:62
+msgid "Numbers of Blog Posts"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:74
+msgid "More Post Button Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:86
+msgid "More Post Button Link"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:98
+msgid "Blog Content Length"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-blgsec.php:99
+msgid ""
+"Enter the length of contents of blog posts to be displayed. Default is 40."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:13
+msgid "Counter Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:24
+msgid "Enable Counter Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:36
+msgid "Background Image"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:47
+msgid "Counter Content"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:53
+msgid "Only 4 counter items can be added."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:56
+msgid "Count Number"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-cntsec.php:60
+msgid "Count Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-ctasec.php:15
+msgid "CTA Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-ctasec.php:26
+msgid "Enable CTA Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-ctasec.php:38
+msgid "CTA Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-ctasec.php:50
+msgid "Section Button Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-ctasec.php:62
+msgid "Section Button Link"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-home.php:13
+msgid "Enable Home Page (Front Page )"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-home.php:24
+msgid "Enable Home Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:15
+msgid "Our Services Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:26
+msgid "Enable Offer Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:62
+msgid "Services Area"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:68
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:67
+msgid "Only 6 items can be added."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:71
+msgid "Services Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:76
+msgid "Icon"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:90
+msgid "Services Content Length"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-offsec.php:91
+msgid "Enter the length of contents of page to be displayed. Default is 12."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:15
+msgid "Partner Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:26
+msgid "Enable Partner Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:61
+msgid "Partner Content"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:67
+msgid "Only 8 items can be added."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:70
+msgid "Partner Image"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-partsec.php:74
+msgid "Partner Link"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:15
+msgid "Team Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:26
+msgid "Enable Team Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:61
+msgid "Team Member"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-teamsec.php:70
+msgid "Team Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:15
+msgid "Testimonial Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:26
+msgid "Enable Testimonail Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:62
+msgid "Testimonial Content"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:68
+msgid "Only 5 items can be added."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-frontpage/option-testsec.php:71
+msgid "Testimonial Page"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-archive.php:13
+msgid "Archive Page Layout Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-archive.php:14
+msgid ""
+"The options are affective on all archive pages such as blog, search, archive "
+"etc..."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-archive.php:29
+msgid "Right"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-archive.php:30
+msgid "Left"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-archive.php:31
+msgid "None"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-archive.php:42
+msgid "Excerpt Length"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-footer.php:13
+msgid "Footer Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-footer.php:24
+msgid "Coyright Text"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-header.php:13
+msgid "Top Header Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-header.php:14
+msgid "Configure Theme Header Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-header.php:25
+msgid "Company Contact Number"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-header.php:37
+msgid "Company Email"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-header.php:49
+msgid "Company Working Hour"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-meta.php:15
+msgid "Singel Post Meta Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-meta.php:26
+msgid "Show Post Date"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-meta.php:38
+msgid "Show Post Author"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-theme/option-meta.php:50
+msgid "Show Post Categorys"
+msgstr ""
+
+#. Name of the theme
+msgid "Spark Construction Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Spark Construction Lite is a Multipurpose WordPress Theme which is designed "
+"and developed targetting agencies and companies which deal with construction,"
+" renovation, architecture design, engineering etc. It has beautiful, elegant "
+"and attractive design and meets the need to build constuction and related "
+"field's websites. It is based on customizer from where you can easily "
+"customize your site. It has reponsive design, cross browser compatible, and "
+"is developed with respect to WordPress Standards. It is compatible with "
+"plugin Contact Form 7 , is translation ready and SEO friendly. Although the "
+"theme targets construction houses, it can be used for corporate and business "
+"websites."
+msgstr ""
+
+#. URI of the theme
+msgid "https://offshorethemes.com/wordpress-themes/spark-construction-lite/"
+msgstr ""
+
+#. Author of the theme
+msgid "offshorethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://offshorethemes.com/"
+msgstr ""

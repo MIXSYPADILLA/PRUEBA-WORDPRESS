@@ -1,0 +1,436 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Spa Lite\n"
+"POT-Creation-Date: 2018-06-29 11:30+0530\n"
+"PO-Revision-Date: 2018-06-28 17:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:32 front-page.php:152 front-page.php:190
+msgid "Back"
+msgstr ""
+
+#: archive.php:33 front-page.php:153 front-page.php:191
+msgid "Next"
+msgstr ""
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr ""
+
+#: category.php:19
+msgid "Category: "
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:61
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:25 image.php:59 page.php:26 template-fullwide.php:20
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:29 page.php:30 template-fullwide.php:24
+msgid "Page"
+msgstr ""
+
+#: content.php:19
+msgid ", "
+msgstr ""
+
+#: content.php:27
+msgid "Read More &rarr;"
+msgstr ""
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: front-page.php:68
+msgid "Book an Appointment"
+msgstr ""
+
+#: front-page.php:94
+msgid "Book a Treatment"
+msgstr ""
+
+#: front-page.php:121
+msgid "Read More"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:57
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:66
+msgid "Header Right Widget"
+msgstr ""
+
+#: functions.php:67
+msgid "Appears on top of the header"
+msgstr ""
+
+#: functions.php:86
+msgctxt "Roboto Condensed:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:93
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:94
+msgctxt "Lato:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:95
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:96
+msgctxt "Great Vibes:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:97
+msgctxt "Open Sans:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:98
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:36
+msgid "Menu"
+msgstr ""
+
+#: image.php:33 image.php:65
+msgid "Edit"
+msgstr ""
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:16
+msgid "Theme Information"
+msgstr ""
+
+#: inc/about-themes.php:18
+msgid ""
+"SKT Spa Lite is a spa and massage parlor WordPress theme suitable for spa, "
+"manicure, pedicure, massage, health clubs, panchkarma, ayurveda, yoga, "
+"fitness trainer, hairdresser, beauty, clinic, barber, therapist, pool, "
+"treatment, depression, stress, nail salon, herbal, luxury, resort, hotel, "
+"services and any other industry since the theme is multipurpose and is "
+"compatible with Visual Composer (WP Bakery), Elementor, Beaver and other "
+"page builders as well as WooCommerce for eCommerce shop and contact form "
+"plugins for call to action. Widget friendly and responsive mobile friendly "
+"and color changing."
+msgstr ""
+
+#: inc/about-themes.php:24
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:26
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid ""
+"Featured Image Size Should be ( 1420 X 549 ) More slider settings available "
+"in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Uncheck To Show Slider"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Homepage Three Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Select Pages from the dropdown for homepage three boxes section"
+msgstr ""
+
+#: inc/customizer.php:191 inc/customizer.php:220
+msgid "Uncheck To Show This Section"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Home Second Section Four Box"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Select Pages from the dropdown for home second section"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "More social icon available in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Footer Area"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Add title for latest news feed"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "Add title for about us"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "About Description"
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Add title for footer contact info"
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Uncheck To Show Footer"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Add you email here"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:192
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: publish post started
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Spa Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.net/shop/free-spa-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Spa Lite is a spa and massage parlor WordPress theme suitable for spa, "
+"manicure, pedicure, massage, health clubs, panchkarma, ayurveda, yoga, "
+"fitness trainer, hairdresser, beauty, clinic, barber, therapist, pool, "
+"treatment, depression, stress, nail salon, herbal, luxury, resort, hotel, "
+"services and any other industry since the theme is multipurpose and is "
+"compatible with Visual Composer (WP Bakery), Elementor, Beaver and other "
+"page builders as well as WooCommerce for eCommerce shop and contact form "
+"plugins for call to action. Widget friendly and responsive mobile friendly "
+"and color changing. Demo : https://sktperfectdemo.com/demos/spa/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.net"
+msgstr ""

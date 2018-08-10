@@ -1,0 +1,15 @@
+.zerif-copyright-box {
+display: none;
+}
+.sidebar-wrap {
+display: none;
+}
+.content-left-wrap {
+width: 100%;
+}
+.blog .sidebar-wrap {
+display: none;
+}
+.blog .content-left-wrap {
+width: 100%;
+}

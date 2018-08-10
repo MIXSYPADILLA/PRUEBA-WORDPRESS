@@ -1,0 +1,96 @@
+/*article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
+	display: block;
+}*/
+/* Propiedades comunes */
+html, body {
+   margin     : 0;
+   padding    : 0;
+   height     : 100%;
+   font-size  : 1em;
+   color      : #FFF;
+   font-family: Arial, Helvetica, sans-serif
+}
+*{border-radius:5px;}
+small { font-size: 80%; }
+i { font-style: italic; }
+a {
+   color          : #42DCFF;
+   text-decoration: none;
+   transition: all 0.8s ease;
+   -webkit-transition: all 0.8s ease;
+   -moz-transition: all 0.8s ease;
+   -o-transition: all 0.8s ease;
+}
+a:hover {
+   color: #DDFF33;
+}
+h1,h2,h3{padding:5px; margin: 5px;}
+h1{font-size: 200%;}
+h2{font-size: 180%}
+h3{font-size: 180%}
+/* ----------------------------
+   Estilo general */
+body {
+   background-color: #000;
+}
+#contenedor {
+   width : 95%;
+   margin: 15px auto;
+}
+/* ----------------------------
+   Encabezado y pie*/
+header {
+   height    : 140px;
+   background: url(../img/logo.png) no-repeat center;
+}
+footer {
+/* ----------------------------
+   Encabezado */
+   height          : 20px;
+   background-color: #444;
+   padding         :5px;
+   color           :#FFF;
+   text-align      : center;
+}
+header, footer {
+/* ----------------------------
+   Encabezado */
+   width : 95%;
+   margin: 0 auto;
+}
+header a {
+   display: block;
+   height : 100%;
+   width  : 100%;
+}
+/* ---------------------------- */
+.msjError {
+   background-color: #FC3F62;
+   border: 1px dotted #AD002B;
+   padding: 5px;
+   border-radius: 5px;
+   font-weight:bold;
+   display:block;
+   margin-bottom:5px;
+   text-align: center;
+}
+.msjInfo {
+   background-color: #259EF5;
+   padding: 5px;
+   border: 1px dotted #259EF5;
+   border-radius: 5px;
+   font-weight:bold;
+   display:block;
+   margin-bottom:5px;
+   text-align: center;
+}
+.texto {
+   padding:5px;
+   width: 95%;
+}
+.ancho100{width:100%}
+.alto40{height:40px;}
+.eliminar{font-size:0.6em; width:60px !important;background:#A11C05 !important;color:#FFF;opacity:.7}
+.eliminar:hover{opacity:1}
+/* Controles desactivados */
+/*button:disabled{background:#dddddd;}*/

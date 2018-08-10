@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: transportex\n"
+"POT-Creation-Date: 2018-01-31 09:20+0530\n"
+"PO-Revision-Date: 2018-01-31 09:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress9\\wp-content\\themes"
+"\\transportex\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress9\\wp-content\\themes"
+"\\transportex\n"
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/404.php:15
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/404.php:27
+msgid "4"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/404.php:30
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/content.php:32
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/single.php:35
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-blog.php:86
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/functions.php:82
+msgid "Primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/functions.php:200
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:46
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:201
+msgid "Toggle Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:79
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:123
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:45
+msgid "fa-phone"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:129
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:58
+msgid "Call Us:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:133
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:71
+msgid "1800-6666-8888"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:143
+msgid "fa-envelope-o"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:149
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:105
+msgid "Email Us:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:153
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:118
+msgid "info@company.com"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:163
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:139
+msgid "fa-clock-o"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:169
+msgid "Opening Time:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:173
+msgid "08:00 - 18:00"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:183
+msgid "Get a Quote"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:184
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:178
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:449
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:199
+msgid "#"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/header.php:185
+msgid "true"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/search.php:41
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/search.php:43
+msgid "Sorry, Do Not match."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/single.php:50
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/breadcrumb.php:25
+msgid "Archive by category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/breadcrumb.php:28
+msgid "Search results for"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/breadcrumb.php:94
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/breadcrumb.php:99
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/transportex-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:6
+msgid "Frontpage Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:16
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:28
+msgid "Hide/Show Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:42
+msgid "Slider Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:54
+msgid "<b><h3>How to add slider on the frontpage</b></h3>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:55
+msgid ""
+"For Enable slider on Front page Go to widget setting <b>( Appreance -> "
+"Widgets )</b> and drag <b> Tx- Slider widget</b> in Slider section widget "
+"area then fill the slider required filed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:79
+msgid "Call To Action Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:92
+msgid "Hide/Show Call to Action Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:105
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:239
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:361
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:552
+msgid "Choose Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:116
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:255
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:563
+msgid "Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:128
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:270
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:383
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:574
+msgid "Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:136
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-calltoaction.php:28
+msgid "Make A Difference With <span>Expert Team</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:142
+msgid "Call To Action Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:156
+msgid "Call To Action SubTitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:164
+msgid "Lets Start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:170
+msgid "Button Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:184
+msgid "Button URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:198
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:469
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:511
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:218
+msgid "Open Link New window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:212
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:226
+msgid "Hide/Show Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:278
+msgid "Show off those skills, work & awesome <span>projects</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:284
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:103
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:297
+msgid "Service Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:309
+msgid "<b><h3>How to add service on the frontpage</b></h3>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:310
+msgid ""
+"For Enable service on Front page Go to widget setting <b>( Appreance -> "
+"Widgets )</b> and drag <b> Tx- Service widget</b> in Service section widget "
+"area then fill the service required filed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:334
+msgid "Callout Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:347
+msgid "Hide/Show Callout Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:398
+msgid "Callout Text Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:407
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-callout.php:28
+msgid "Reach Your Place Sure & Safe"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:413
+msgid "Callout Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:421
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-callout.php:35
+msgid ""
+"We take care with merchandise and deliver your order where you are on time."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:427
+msgid "Callout Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:435
+msgid "Buy Now!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:441
+msgid "Button One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:455
+msgid "Button One URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:477
+msgid "Know More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:483
+msgid "Button Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:497
+msgid "Button Two URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:524
+msgid "News & Events Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:539
+msgid "Hide/Show News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:588
+msgid "Hide/Show Blog Meta:- Like author name,categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:602
+msgid "Latest News Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:616
+msgid "Latest News Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:631
+msgid "Select Number of Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "3"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "6"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "9"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "12"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "15"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "18"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/ta_customize_homepage.php:633
+msgid "21"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:11
+msgid "Copyright Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:12
+msgid "This is a Footer section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:19
+msgid "Copyright 2017 Powered by WordPress"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:22
+msgid "Copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:29
+msgid "Social Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:40
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:51
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:72
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:94
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:116
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:61
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:82
+msgid "Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_copyright.php:104
+msgid "Google-plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:14
+msgid "<a><i class=\"fa fa-clock-o \"></i>Open-Hours:10 am to 7pm</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:19
+msgid "Info one"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:27
+msgid ""
+"<a href=\"mailto:info@themeansar.com\" title=\"Mail Me\"><i class=\"fa fa-"
+"envelope\"></i> info@themeansar.com</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:32
+msgid "Info two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:38
+msgid "Header Widget One Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:51
+msgid "One Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:64
+msgid "One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:77
+msgid "One Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:85
+msgid "Header Widget Two Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:92
+msgid "fa-map-marker"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:98
+msgid "Two Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:111
+msgid "Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:124
+msgid "Two Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:132
+msgid "Header Widget Three Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:145
+msgid "Three Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:152
+msgid "7:30 AM - 7:30 PM"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:158
+msgid "Three Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:165
+msgid "Monday to Saturday"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:171
+msgid "Three Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:179
+msgid "Header Widget Four Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:186
+msgid "Get Quote"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:192
+msgid "Four Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/customize/transportex_customize_header.php:205
+msgid "Four Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/themeinfo/themeinfo-detail.php:51
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/themeinfo/themeinfo-detail.php:55
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/themeinfo/themeinfo-detail.php:68
+msgid "Dismiss"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:15
+msgid "Tx - Callout Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:91
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:91
+msgid "Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:102
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:102
+msgid "Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:116
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:144
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:116
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:144
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:138
+msgid "Button Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:119
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:147
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:119
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:147
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:141
+msgid "Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:137
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-callout.php:165
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:137
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:165
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:159
+msgid "Open Button Link in new window?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-calltoaction.php:15
+msgid "Tx - Call To Action Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-recent-news.php:14
+msgid "Tx - Recent News Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-recent-news.php:15
+msgid "Recent Blog Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-recent-news.php:64
+msgid "Latest News"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-recent-news.php:69
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-recent-news.php:73
+msgid "Number of pages to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:14
+msgid "Tx - Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:98
+msgid ""
+"Enter  Font Awesome icon class ( like: fa-cloud ). <a href=\"//fontawesome."
+"io/fa_icons/\" target=\"blank\" >Here all icon </a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:110
+msgid "Service Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:116
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:122
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:122
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:128
+msgid "Uploaded image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:129
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:135
+msgid "Upload Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-service.php:133
+msgid "Hide Featured Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:17
+msgid "Tx - Slider Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:109
+msgid "Slider Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:116
+msgid "Slider Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:140
+msgid "Button One Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:143
+msgid "Button One Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/inc/icy/widget/transportex-slider.php:156
+msgid "Open Button One Link in new window?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-blog.php:33
+msgid "Latest <span>News</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-blog.php:39
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-services.php:34
+msgid ""
+"laoreet ipsum eu laoreet. ugiignissimat Vivamus dignissim feugiat erat sit "
+"amet convallis."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\transportex/sections/home-services.php:26
+msgid "Our <span>Service</span> Says"
+msgstr ""

@@ -1,0 +1,187 @@
+/* Quitar borde naranja del Google Chrome al hacer clic en los controles de un formulario */
+/**:focus {outline:none;}*/
+*:focus {outline: solid;}
+/* ------------------------- */
+/*body{background-color:black}*/
+.ventana{
+   width:600px;
+   margin:10px auto;
+   font-family:sans-serif;
+   box-shadow:3px 3px 10px rgba(255,255,255,.4);
+}
+.titulo{
+   height:40px;
+   color:#DDF78D;
+   width:100%;
+   background:#000 url(../img/iu-titulo.jpg) no-repeat left;
+}
+.titulo label{
+   display:block;
+   padding-top:12px;
+   font-weight:bold;
+   padding-left:50px;
+   letter-spacing:1.5px;
+}
+.informacion{
+   padding:5px 10px;
+   font-style:italic;
+   font-size:90%;
+}
+.contenido{color:#EEE;}
+.contenido * {padding:5px;}
+.botones{height:35px;}
+.botones button{
+   margin:5px 15px 5px 5px;
+   height:100%;
+   width: 120px;
+   padding:5px;
+   background:url(../img/iu-boton.jpg) repeat-x center;
+}
+/* -----------------------------
+   Propiedades comunes
+----------------------------- */
+   table thead th,input[type=text],input[type=password]{padding:1px 5px;}
+   .botones button{border:none;}
+   .ventana,.botones button,input[type=text],input[type=password]{border-radius:5px;}
+   .ventana,.contenido{background-color:#40464b;}
+   .ventana,.botones button,input[type=text],input[type=password]{color:#FFF;}
+   .titulo,.contenido{width:100%;}
+   .botones button,.flotarDer{float:right;}
+   .flotarIzq{float:left;}
+   #TablaUsuarios tr td:hover,button,
+   input[type="radio"] + label span,
+   input[type="checkbox"] + label span,nav ul{cursor:url(../img/cursor_hand_link.cur),auto;}
+   #TablaUsuarios tr:active,button:active,
+   input[type="radio"] + label span:active,
+   input[type="checkbox"] + label span:active{cursor:url(../img/cursor_hand_clic.cur),auto}
+   input[type=text],input[type=password],label{padding:5px;display:inline-block}
+/* ----------------------------- */
+.botones button{background:url(../img/iu-boton.jpg) repeat-x center;}
+.botones button:hover{background:url(../img/iu-boton_on.jpg) repeat-x center;}
+.botones button:active{background:url../img/iu-boton_clic.jpg) repeat-x center;}
+.botones button,.informacion,.contenido{border-bottom:2px solid #BBB;}
+.ventana,.titulo,.contenido{border-radius:10px}
+.estiloblanco{background-color:#FFF;color:#000}
+input[type=text],input[type=password]{
+   /*border:1px solid #888;
+   /*border-bottom:3px inset #FFF;
+   background-color:transparent;*/
+   color:#000;
+}
+table thead th {
+   background-color:#612E2E;
+   border-radius:5px solid #FFF;
+}
+table thead th {padding:2px 5px}
+#TablaUsuarios tr:hover{background-color:#806363
+}
+.celda{display:table-cell}
+.tabla{display:table}
+.fila{display:table-row}
+.ancho100{width:100%}
+.ancho95{width:95%}
+.ancho50{width:50%}
+.ancho900px{width:870px;}
+
+/* --------------------------------
+   Radio button y Check button
+*/
+input[type=checkbox]{display:none;}
+input[type=checkbox] + label{
+   color:#f2f2f2;
+   font-family:Arial, sans-serif;
+   font-size:14px;
+}
+input[type=checkbox] + label span{
+   display:inline-block;
+   width:9px;
+   height:10px;
+   margin:-1px 4px 0 0;
+   vertical-align:middle;
+   background:url(../img/check_radio_sheet.png) left top no-repeat;
+   cursor:pointer;
+}
+input[type=checkbox]:checked + label span {
+   background:url(../img/check_radio_sheet.png) -19px top no-repeat;
+}
+input[type=radio]+{display:none;}
+input[type=radio] + label {
+   color:#f2f2f2;
+   font-family:Arial, sans-serif;
+   font-size:14px;
+}
+input[type=radio] + label span {
+   display:inline-block;
+   width:19px;
+   height:10px;
+   margin:-1px 4px 0 0;
+   vertical-align:middle;
+   background:url(../img/check_radio_sheet.png) -38px top no-repeat;
+   cursor:pointer;
+}
+input[type=radio]:checked + label span {background:url(../img/check_radio_sheet.png) -57px top no-repeat;}
+.centro{margin:0 auto;}
+/* -------------------------------------
+   Tooltip de ayuda */
+.tooltip {
+   display: inline;
+   position: relative;
+}
+.tooltip:hover:after {
+   bottom: 36px;
+   content: attr(alt); /* este es el texto que será mostrado */
+   left: 10%;
+   position: absolute;
+   z-index: 98;
+   /* el formato gráfico */
+   background: rgba(25,25,25, 0.8); /* el color de fondo */
+   border-radius: 5px;
+   color: #FCA; /* el color del texto */
+   font-family: Georgia;
+   font-size: 12px;
+   padding: 5px 15px;
+   text-align: center;
+   text-shadow: 1px 1px 1px #000;
+}
+.tooltip:hover:before {
+   bottom: 30px;
+   content: "";
+   left: 50%;
+   position: absolute;
+   z-index: 99;
+   /* el triángulo inferior */
+   border: solid;
+   border-color: rgba(255,255,255, 1) transparent;
+   border-width: 6px 6px 0 6px;
+}
+/* Estilo para las tablas dinámicas */
+.tabla-dinamica tbody tr{background: #999;}
+.fila-base{display: none;} /* fila base oculta */
+/*.eliminar{cursor:pointer; color:#000;}*/
+.tabla-cuadrada tr,.tabla-cuadrada th,.tabla-cuadrada tr td{border-radius:0}
+.tabla-cuadrada td{padding:0}
+.tabla-cuadrada input[type=text]{width:90%}
+.ico-cruz,.icono-ok{padding:0}
+.ico-no{background:url(../img/ok_no.png) center right no-repeat}
+.ico-ok{background:url(../img/ok_no.png) center left no-repeat}
+.ico-no,.ico-ok{width:28px;height:25px}
+/* Imagen de cargando */
+#imgCargando{
+   background:url(../img/cargando.gif) no-repeat center;
+   background-size: 100px;
+   top:-1px;
+   left:-1px;
+   width:100%;
+   height:100%;
+   display:block;
+   z-index:100;
+   position:absolute;
+}
+.oculto{display:none;width:0;height:0;visibility:hidden}
+/* Romper palabras dentro de la tabla para evitar el desborde de la tabla */
+/*table{table-layout: fixed}*/
+table td{
+   word-wrap: break-word;
+   /*word-break:break-all;*/
+   width:auto;
+}

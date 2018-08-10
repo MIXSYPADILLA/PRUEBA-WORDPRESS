@@ -1,0 +1,73 @@
+
+// Pre-define for typography in project
+
+body {
+
+    line-height: $default_line_height_for_body;
+    font-family: $primary_font;
+    color: $primary_color;
+    font-size: $default_font_size_body;
+    font-weight: $default_font_weight;
+}
+
+
+// Pre-define for images
+
+img {
+
+    max-width: 100%;
+}
+
+a {
+
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+    color: $primary_color;
+
+    &:hover {
+
+        color: $secondary_color;
+    }
+}
+
+// container 
+
+.spc_container {
+
+    max-width: 1170px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.general_btn_layout_one {
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    font-weight: 600;
+    background: $secondary_color;
+    border: 3px solid $secondary_color;
+    color: $white;
+    text-transform: uppercase;
+    border-radius: 200px;
+    vertical-align: bottom;
+}
+
+.general_btn_layout_one:hover {
+
+    background: none;
+    color: $secondary_color;
+}
+
+.thin_mask {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
